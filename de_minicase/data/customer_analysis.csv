@@ -1,0 +1,1060 @@
+OrderDate,ProductName,TotalPrice,ShipName,ShipCountry,IsEurophian
+1997-01-01 00.00.00.000,Thüringer Rostbratwurst,"2599,59",Eastern Connection,UK,1
+1997-01-01 00.00.00.000,Steeleye Stout,630,Eastern Connection,UK,1
+1997-01-01 00.00.00.000,Maxilaku,600,Eastern Connection,UK,1
+1997-01-01 00.00.00.000,Nord-Ost Matjeshering,"466,02",Rattlesnake Canyon Grocery,USA,0
+1997-01-01 00.00.00.000,Gnocchi di nonna Alice,2660,Rattlesnake Canyon Grocery,USA,0
+1997-01-01 00.00.00.000,Louisiana Fiery Hot Pepper Sauce,421,Rattlesnake Canyon Grocery,USA,0
+1997-01-01 00.00.00.000,Flotemysost,1290,Rattlesnake Canyon Grocery,USA,0
+1997-01-02 00.00.00.000,Tunnbröd,540,Ernst Handel,Austria,1
+1997-01-02 00.00.00.000,Vegie-spread,"2853,5",Ernst Handel,Austria,1
+1997-01-03 00.00.00.000,Pavlova,"311,48254",Ernst Handel,Austria,1
+1997-01-03 00.00.00.000,Chocolade,"758,62506",Ernst Handel,Austria,1
+1997-01-03 00.00.00.000,Gumbär Gummibärchen,"890,055",Magazzini Alimentari Riuniti,Italy,1
+1997-01-03 00.00.00.000,Singaporean Hokkien Fried Mee,532,Magazzini Alimentari Riuniti,Italy,1
+1997-01-03 00.00.00.000,Maxilaku,570,Magazzini Alimentari Riuniti,Italy,1
+1997-01-06 00.00.00.000,Aniseed Syrup,500,LINO-Delicateses,Venezuela,1
+1997-01-07 00.00.00.000,Chai,180,Queen Cozinha,Brazil,0
+1997-01-07 00.00.00.000,Sir Rodney's Scones,270,Queen Cozinha,Brazil,0
+1997-01-07 00.00.00.000,Rössle Sauerkraut,"1723,6799",Queen Cozinha,Brazil,0
+1997-01-07 00.00.00.000,Inlagd Sill,"85,5",Queen Cozinha,Brazil,0
+1997-01-07 00.00.00.000,Boston Crab Meat,"33,12",Queen Cozinha,Brazil,0
+1997-01-07 00.00.00.000,Queso Cabrales,630,Ottilies Käseladen,Germany,1
+1997-01-07 00.00.00.000,Gudbrandsdalsost,540,Ottilies Käseladen,Germany,1
+1997-01-07 00.00.00.000,Flotemysost,"322,5",Ottilies Käseladen,Germany,1
+1997-01-08 00.00.00.000,Gravad lax,260,Folies gourmandes,France,1
+1997-01-08 00.00.00.000,Tourtière,"44,699997",Folies gourmandes,France,1
+1997-01-08 00.00.00.000,Tarte au sucre,"1725,5",Folies gourmandes,France,1
+1997-01-09 00.00.00.000,Tofu,279,Océano Atlántico Ltda.,Argentina,0
+1997-01-09 00.00.00.000,Sir Rodney's Scones,120,Océano Atlántico Ltda.,Argentina,0
+1997-01-10 00.00.00.000,Geitost,"122,5",Bottom-Dollar Markets,Canada,0
+1997-01-10 00.00.00.000,Raclette Courdavault,880,Bottom-Dollar Markets,Canada,0
+1997-01-10 00.00.00.000,Jack's New England Clam Chowder,193,Bottom-Dollar Markets,Canada,0
+1997-01-10 00.00.00.000,Gula Malacca,"622,4",Bottom-Dollar Markets,Canada,0
+1997-01-10 00.00.00.000,Raclette Courdavault,396,Bottom-Dollar Markets,Canada,0
+1997-01-13 00.00.00.000,Tofu,"418,5",Wartian Herkku,Finland,1
+1997-01-14 00.00.00.000,Chai,432,La maison d'Asie,France,1
+1997-01-14 00.00.00.000,Tarte au sucre,1972,La maison d'Asie,France,1
+1997-01-14 00.00.00.000,Lakkalikööri,252,La maison d'Asie,France,1
+1997-01-14 00.00.00.000,Teatime Chocolate Biscuits,"157,31999",Familia Arquibaldo,Brazil,0
+1997-01-14 00.00.00.000,Geitost,125,Familia Arquibaldo,Brazil,0
+1997-01-15 00.00.00.000,Alice Mutton,78,Hungry Coyote Import Store,USA,0
+1997-01-15 00.00.00.000,Geitost,50,Hungry Coyote Import Store,USA,0
+1997-01-16 00.00.00.000,Teatime Chocolate Biscuits,184,Wartian Herkku,Finland,1
+1997-01-16 00.00.00.000,Perth Pasties,328,Wartian Herkku,Finland,1
+1997-01-16 00.00.00.000,Ravioli Angelo,390,Wartian Herkku,Finland,1
+1997-01-16 00.00.00.000,Côte de Blaye,13175,Simons bistro,Denmark,1
+1997-01-16 00.00.00.000,Spegesild,18,Simons bistro,Denmark,1
+1997-01-16 00.00.00.000,Scottish Longbreads,"337,5",Simons bistro,Denmark,1
+1997-01-16 00.00.00.000,Original Frankfurter grüne Soße,455,Simons bistro,Denmark,1
+1997-01-17 00.00.00.000,Chang,1140,QUICK-Stop,Germany,1
+1997-01-17 00.00.00.000,Zaanse koeken,"522,5",QUICK-Stop,Germany,1
+1997-01-17 00.00.00.000,Sirop d'érable,456,QUICK-Stop,Germany,1
+1997-01-17 00.00.00.000,Longlife Tofu,150,QUICK-Stop,Germany,1
+1997-01-20 00.00.00.000,Camembert Pierrot,1938,Richter Supermarkt,Switzerland,1
+1997-01-20 00.00.00.000,Gudbrandsdalsost,684,Richter Supermarkt,Switzerland,1
+1997-01-21 00.00.00.000,Mishi Kobe Niku,"1745,9999",Wellington Importadora,Brazil,0
+1997-01-21 00.00.00.000,Konbu,"10,799999",Wellington Importadora,Brazil,0
+1997-01-21 00.00.00.000,Outback Lager,108,Wellington Importadora,Brazil,0
+1997-01-21 00.00.00.000,Röd Kaviar,270,Wellington Importadora,Brazil,0
+1997-01-21 00.00.00.000,Teatime Chocolate Biscuits,"31,28",Que Delícia,Brazil,0
+1997-01-21 00.00.00.000,Gumbär Gummibärchen,"936,89996",Que Delícia,Brazil,0
+1997-01-21 00.00.00.000,Perth Pasties,"418,2",Que Delícia,Brazil,0
+1997-01-21 00.00.00.000,Original Frankfurter grüne Soße,"110,5",Que Delícia,Brazil,0
+1997-01-22 00.00.00.000,Gumbär Gummibärchen,"62,46",Franchi S.p.A.,Italy,1
+1997-01-23 00.00.00.000,Gorgonzola Telino,175,Gourmet Lanchonetes,Brazil,0
+1997-01-23 00.00.00.000,Raclette Courdavault,1100,Gourmet Lanchonetes,Brazil,0
+1997-01-23 00.00.00.000,Steeleye Stout,"864,00006",Mère Paillarde,Canada,0
+1997-01-23 00.00.00.000,Côte de Blaye,"10329,2",Mère Paillarde,Canada,0
+1997-01-23 00.00.00.000,Scottish Longbreads,300,Mère Paillarde,Canada,0
+1997-01-24 00.00.00.000,Pâté chinois,180,La maison d'Asie,France,1
+1997-01-24 00.00.00.000,Lakkalikööri,270,La maison d'Asie,France,1
+1997-01-27 00.00.00.000,Gnocchi di nonna Alice,190,Galería del gastronómo,Spain,1
+1997-01-27 00.00.00.000,Wimmers gute Semmelknödel,"232,75",Galería del gastronómo,Spain,1
+1997-01-27 00.00.00.000,Tofu,"813,75",Piccolo und mehr,Austria,1
+1997-01-28 00.00.00.000,Spegesild,240,Reggiani Caseifici,Italy,1
+1997-01-29 00.00.00.000,Valkoinen suklaa,650,Hungry Owl All-Night Grocers,Ireland,1
+1997-01-29 00.00.00.000,Vegie-spread,"1152,3751",Hungry Owl All-Night Grocers,Ireland,1
+1997-01-30 00.00.00.000,Alice Mutton,1404,Ernst Handel,Austria,1
+1997-01-30 00.00.00.000,Sir Rodney's Scones,500,Ernst Handel,Austria,1
+1997-01-30 00.00.00.000,Gnocchi di nonna Alice,1140,Ernst Handel,Austria,1
+1997-01-30 00.00.00.000,Raclette Courdavault,3080,Ernst Handel,Austria,1
+1997-01-30 00.00.00.000,Alice Mutton,"1462,5",Bottom-Dollar Markets,Canada,0
+1997-01-30 00.00.00.000,Boston Crab Meat,"689,99994",Bottom-Dollar Markets,Canada,0
+1997-01-30 00.00.00.000,Zaanse koeken,"213,75",Bottom-Dollar Markets,Canada,0
+1997-01-31 00.00.00.000,Gumbär Gummibärchen,"312,3",Split Rail Beer & Ale,USA,0
+1997-01-31 00.00.00.000,Tourtière,298,Split Rail Beer & Ale,USA,0
+1997-02-03 00.00.00.000,Gnocchi di nonna Alice,1064,Princesa Isabel Vinhos,Portugal,1
+1997-02-03 00.00.00.000,Queso Cabrales,126,Folk och fä HB,Sweden,1
+1997-02-03 00.00.00.000,Lakkalikööri,"275,4",Folk och fä HB,Sweden,1
+1997-02-04 00.00.00.000,Chang,190,Consolidated Holdings,UK,1
+1997-02-04 00.00.00.000,Gustaf's Knäckebröd,252,Consolidated Holdings,UK,1
+1997-02-04 00.00.00.000,Mozzarella di Giovanni,348,Consolidated Holdings,UK,1
+1997-02-05 00.00.00.000,Spegesild,60,Blondel père et fils,France,1
+1997-02-05 00.00.00.000,Gnocchi di nonna Alice,1368,Blondel père et fils,France,1
+1997-02-05 00.00.00.000,Wimmers gute Semmelknödel,"897,75",Blondel père et fils,France,1
+1997-02-05 00.00.00.000,Rhönbräu Klosterbier,"167,4",Blondel père et fils,France,1
+1997-02-05 00.00.00.000,Perth Pasties,492,Wartian Herkku,Finland,1
+1997-02-06 00.00.00.000,Teatime Chocolate Biscuits,"110,4",Toms Spezialitäten,Germany,1
+1997-02-06 00.00.00.000,Sasquatch Ale,224,Toms Spezialitäten,Germany,1
+1997-02-06 00.00.00.000,Ravioli Angelo,234,Toms Spezialitäten,Germany,1
+1997-02-07 00.00.00.000,Queso Manchego La Pastora,570,Mère Paillarde,Canada,0
+1997-02-07 00.00.00.000,Pavlova,"279,2",Mère Paillarde,Canada,0
+1997-02-07 00.00.00.000,Wimmers gute Semmelknödel,"199,5",Mère Paillarde,Canada,0
+1997-02-07 00.00.00.000,Longlife Tofu,300,Mère Paillarde,Canada,0
+1997-02-10 00.00.00.000,Chang,"726,75",Save-a-lot Markets,USA,0
+1997-02-10 00.00.00.000,Pavlova,"726,79254",Save-a-lot Markets,USA,0
+1997-02-10 00.00.00.000,Thüringer Rostbratwurst,"2525,3162",Save-a-lot Markets,USA,0
+1997-02-10 00.00.00.000,Sirop d'érable,"2180,25",Save-a-lot Markets,USA,0
+1997-02-10 00.00.00.000,Schoggi Schokolade,2195,Old World Delicatessen,USA,0
+1997-02-11 00.00.00.000,Queso Cabrales,630,Ernst Handel,Austria,1
+1997-02-11 00.00.00.000,Tourtière,596,Ernst Handel,Austria,1
+1997-02-11 00.00.00.000,Louisiana Hot Spiced Okra,1020,Ernst Handel,Austria,1
+1997-02-12 00.00.00.000,Queso Cabrales,"100,8",Reggiani Caseifici,Italy,1
+1997-02-12 00.00.00.000,Rössle Sauerkraut,"547,19995",Reggiani Caseifici,Italy,1
+1997-02-12 00.00.00.000,Alice Mutton,390,Berglunds snabbköp,Sweden,1
+1997-02-12 00.00.00.000,Gumbär Gummibärchen,"468,44998",Berglunds snabbköp,Sweden,1
+1997-02-12 00.00.00.000,Steeleye Stout,144,Berglunds snabbköp,Sweden,1
+1997-02-12 00.00.00.000,Jack's New England Clam Chowder,"289,5",Berglunds snabbköp,Sweden,1
+1997-02-13 00.00.00.000,Chartreuse verte,108,Berglunds snabbköp,Sweden,1
+1997-02-13 00.00.00.000,Tourtière,"111,75",Berglunds snabbköp,Sweden,1
+1997-02-14 00.00.00.000,Teatime Chocolate Biscuits,"99,36",Toms Spezialitäten,Germany,1
+1997-02-14 00.00.00.000,Guaraná Fantástica,"80,99999",Toms Spezialitäten,Germany,1
+1997-02-14 00.00.00.000,Gorgonzola Telino,"33,75",Toms Spezialitäten,Germany,1
+1997-02-14 00.00.00.000,Filo Mix,"94,49999",Toms Spezialitäten,Germany,1
+1997-02-14 00.00.00.000,Teatime Chocolate Biscuits,368,Ricardo Adocicados,Brazil,0
+1997-02-14 00.00.00.000,Louisiana Fiery Hot Pepper Sauce,"736,75",Ricardo Adocicados,Brazil,0
+1997-02-14 00.00.00.000,Flotemysost,43,Ricardo Adocicados,Brazil,0
+1997-02-17 00.00.00.000,Gumbär Gummibärchen,"187,38",Rancho grande,Argentina,0
+1997-02-17 00.00.00.000,Boston Crab Meat,368,Rancho grande,Argentina,0
+1997-02-18 00.00.00.000,Ikura,434,Blondel père et fils,France,1
+1997-02-18 00.00.00.000,Filo Mix,140,Blondel père et fils,France,1
+1997-02-18 00.00.00.000,Tarte au sucre,"1725,5",Blondel père et fils,France,1
+1997-02-19 00.00.00.000,Ikura,"496,00003",Victuailles en stock,France,1
+1997-02-19 00.00.00.000,Tourtière,"35,760002",Victuailles en stock,France,1
+1997-02-19 00.00.00.000,Pâté chinois,"2591,9998",QUICK-Stop,Germany,1
+1997-02-19 00.00.00.000,Wimmers gute Semmelknödel,"1047,375",QUICK-Stop,Germany,1
+1997-02-19 00.00.00.000,Louisiana Fiery Hot Pepper Sauce,"530,45996",QUICK-Stop,Germany,1
+1997-02-19 00.00.00.000,Original Frankfurter grüne Soße,"643,5",QUICK-Stop,Germany,1
+1997-02-20 00.00.00.000,Rössle Sauerkraut,684,Save-a-lot Markets,USA,0
+1997-02-20 00.00.00.000,Gula Malacca,"1847,7501",Save-a-lot Markets,USA,0
+1997-02-21 00.00.00.000,Chocolade,"172,12498",Around the Horn,UK,1
+1997-02-21 00.00.00.000,Outback Lager,"337,5",Around the Horn,UK,1
+1997-02-21 00.00.00.000,Pavlova,"279,2",La maison d'Asie,France,1
+1997-02-21 00.00.00.000,Geitost,40,La maison d'Asie,France,1
+1997-02-21 00.00.00.000,Spegesild,96,La maison d'Asie,France,1
+1997-02-24 00.00.00.000,Chartreuse verte,360,Wartian Herkku,Finland,1
+1997-02-24 00.00.00.000,Perth Pasties,1640,Wartian Herkku,Finland,1
+1997-02-24 00.00.00.000,Sirop d'érable,"712,5",Wartian Herkku,Finland,1
+1997-02-24 00.00.00.000,Flotemysost,645,Wartian Herkku,Finland,1
+1997-02-25 00.00.00.000,Sir Rodney's Scones,340,Königlich Essen,Germany,1
+1997-02-25 00.00.00.000,Maxilaku,357,Königlich Essen,Germany,1
+1997-02-25 00.00.00.000,Raclette Courdavault,1980,Königlich Essen,Germany,1
+1997-02-26 00.00.00.000,Gumbär Gummibärchen,"936,89996",Suprêmes délices,Belgium,1
+1997-02-26 00.00.00.000,Rössle Sauerkraut,1368,Suprêmes délices,Belgium,1
+1997-02-26 00.00.00.000,Ipoh Coffee,920,Suprêmes délices,Belgium,1
+1997-02-26 00.00.00.000,Gnocchi di nonna Alice,570,Suprêmes délices,Belgium,1
+1997-02-26 00.00.00.000,Flotemysost,1075,Suprêmes délices,Belgium,1
+1997-02-27 00.00.00.000,Uncle Bob's Organic Dried Pears,456,Victuailles en stock,France,1
+1997-02-27 00.00.00.000,Spegesild,228,Victuailles en stock,France,1
+1997-02-27 00.00.00.000,Mozzarella di Giovanni,1392,Victuailles en stock,France,1
+1997-02-28 00.00.00.000,Scottish Longbreads,"196,875",Folk och fä HB,Sweden,1
+1997-02-28 00.00.00.000,Rhönbräu Klosterbier,"23,25",Folk och fä HB,Sweden,1
+1997-02-28 00.00.00.000,Sir Rodney's Scones,300,LILA-Supermercado,Venezuela,1
+1997-02-28 00.00.00.000,Nord-Ost Matjeshering,"543,69",LILA-Supermercado,Venezuela,1
+1997-02-28 00.00.00.000,Pâté chinois,1080,LILA-Supermercado,Venezuela,1
+1997-03-03 00.00.00.000,Konbu,6,Consolidated Holdings,UK,1
+1997-03-03 00.00.00.000,Tunnbröd,189,Consolidated Holdings,UK,1
+1997-03-04 00.00.00.000,Teatime Chocolate Biscuits,"193,2",Suprêmes délices,Belgium,1
+1997-03-04 00.00.00.000,Singaporean Hokkien Fried Mee,700,Suprêmes délices,Belgium,1
+1997-03-04 00.00.00.000,Chef Anton's Cajun Seasoning,"281,6",Furia Bacalhau e Frutos do Mar,Portugal,1
+1997-03-04 00.00.00.000,Ipoh Coffee,138,Furia Bacalhau e Frutos do Mar,Portugal,1
+1997-03-04 00.00.00.000,Gnocchi di nonna Alice,912,Furia Bacalhau e Frutos do Mar,Portugal,1
+1997-03-04 00.00.00.000,Camembert Pierrot,680,Furia Bacalhau e Frutos do Mar,Portugal,1
+1997-03-05 00.00.00.000,Guaraná Fantástica,"112,5",Vaffeljernet,Denmark,1
+1997-03-05 00.00.00.000,Thüringer Rostbratwurst,"2005,398",Vaffeljernet,Denmark,1
+1997-03-05 00.00.00.000,Boston Crab Meat,368,Vaffeljernet,Denmark,1
+1997-03-05 00.00.00.000,Rogede sild,"256,5",Vaffeljernet,Denmark,1
+1997-03-05 00.00.00.000,Valkoinen suklaa,"406,25",Vaffeljernet,Denmark,1
+1997-03-06 00.00.00.000,Queso Cabrales,210,Comércio Mineiro,Brazil,0
+1997-03-06 00.00.00.000,Spegesild,60,Comércio Mineiro,Brazil,0
+1997-03-06 00.00.00.000,Guaraná Fantástica,126,Magazzini Alimentari Riuniti,Italy,1
+1997-03-06 00.00.00.000,NuNuCa Nuß-Nougat-Creme,168,Magazzini Alimentari Riuniti,Italy,1
+1997-03-07 00.00.00.000,Nord-Ost Matjeshering,"207,12",Königlich Essen,Germany,1
+1997-03-07 00.00.00.000,Ipoh Coffee,690,Königlich Essen,Germany,1
+1997-03-10 00.00.00.000,Chang,646,White Clover Markets,USA,0
+1997-03-10 00.00.00.000,Pavlova,"519,1376",White Clover Markets,USA,0
+1997-03-10 00.00.00.000,Gula Malacca,"33,065002",White Clover Markets,USA,0
+1997-03-11 00.00.00.000,Carnarvon Tigers,1875,Bon app',France,1
+1997-03-11 00.00.00.000,Tunnbröd,135,Bon app',France,1
+1997-03-11 00.00.00.000,Wimmers gute Semmelknödel,266,Bon app',France,1
+1997-03-11 00.00.00.000,Uncle Bob's Organic Dried Pears,900,B's Beverages,UK,1
+1997-03-11 00.00.00.000,Gnocchi di nonna Alice,760,B's Beverages,UK,1
+1997-03-12 00.00.00.000,Guaraná Fantástica,342,Seven Seas Imports,UK,1
+1997-03-12 00.00.00.000,Manjimup Dried Apples,954,Seven Seas Imports,UK,1
+1997-03-13 00.00.00.000,Geitost,30,Island Trading,UK,1
+1997-03-13 00.00.00.000,Flotemysost,258,Island Trading,UK,1
+1997-03-13 00.00.00.000,Tofu,279,Pericles Comidas clásicas,Mexico,0
+1997-03-13 00.00.00.000,Rössle Sauerkraut,"820,8",Pericles Comidas clásicas,Mexico,0
+1997-03-13 00.00.00.000,Boston Crab Meat,"386,4",Pericles Comidas clásicas,Mexico,0
+1997-03-13 00.00.00.000,Rhönbräu Klosterbier,"77,5",Pericles Comidas clásicas,Mexico,0
+1997-03-14 00.00.00.000,Gorgonzola Telino,"371,875",Suprêmes délices,Belgium,1
+1997-03-14 00.00.00.000,Louisiana Hot Spiced Okra,"867,00006",Suprêmes délices,Belgium,1
+1997-03-14 00.00.00.000,Lakkalikööri,"642,60004",Suprêmes délices,Belgium,1
+1997-03-17 00.00.00.000,Pâté chinois,"45,6",HILARION-Abastos,Venezuela,1
+1997-03-17 00.00.00.000,Outback Lager,180,HILARION-Abastos,Venezuela,1
+1997-03-17 00.00.00.000,Chai,270,Princesa Isabel Vinhos,Portugal,1
+1997-03-17 00.00.00.000,Sir Rodney's Scones,"157,5",Princesa Isabel Vinhos,Portugal,1
+1997-03-17 00.00.00.000,Chartreuse verte,270,Princesa Isabel Vinhos,Portugal,1
+1997-03-18 00.00.00.000,Ikura,589,Victuailles en stock,France,1
+1997-03-19 00.00.00.000,Côte de Blaye,7905,Rattlesnake Canyon Grocery,USA,0
+1997-03-19 00.00.00.000,Perth Pasties,"918,39996",Rattlesnake Canyon Grocery,USA,0
+1997-03-19 00.00.00.000,Raclette Courdavault,3300,Rattlesnake Canyon Grocery,USA,0
+1997-03-19 00.00.00.000,Wimmers gute Semmelknödel,"997,5",Rattlesnake Canyon Grocery,USA,0
+1997-03-20 00.00.00.000,Zaanse koeken,285,Folies gourmandes,France,1
+1997-03-20 00.00.00.000,Raclette Courdavault,660,Folies gourmandes,France,1
+1997-03-20 00.00.00.000,Maxilaku,480,Ricardo Adocicados,Brazil,0
+1997-03-20 00.00.00.000,Camembert Pierrot,1360,Ricardo Adocicados,Brazil,0
+1997-03-21 00.00.00.000,Boston Crab Meat,184,Lazy K Kountry Store,USA,0
+1997-03-24 00.00.00.000,Sasquatch Ale,"465,5",White Clover Markets,USA,0
+1997-03-24 00.00.00.000,Original Frankfurter grüne Soße,"370,49997",White Clover Markets,USA,0
+1997-03-24 00.00.00.000,Sir Rodney's Scones,140,B's Beverages,UK,1
+1997-03-24 00.00.00.000,Boston Crab Meat,184,B's Beverages,UK,1
+1997-03-24 00.00.00.000,Manjimup Dried Apples,159,B's Beverages,UK,1
+1997-03-25 00.00.00.000,Chang,342,LINO-Delicateses,Venezuela,1
+1997-03-25 00.00.00.000,Aniseed Syrup,180,LINO-Delicateses,Venezuela,1
+1997-03-25 00.00.00.000,Pâté chinois,"647,99994",LINO-Delicateses,Venezuela,1
+1997-03-25 00.00.00.000,Outback Lager,810,LINO-Delicateses,Venezuela,1
+1997-03-26 00.00.00.000,Queso Cabrales,105,HILARION-Abastos,Venezuela,1
+1997-03-26 00.00.00.000,Manjimup Dried Apples,1325,HILARION-Abastos,Venezuela,1
+1997-03-26 00.00.00.000,Longlife Tofu,160,HILARION-Abastos,Venezuela,1
+1997-03-26 00.00.00.000,Teatime Chocolate Biscuits,46,Queen Cozinha,Brazil,0
+1997-03-26 00.00.00.000,Gumbär Gummibärchen,"936,89996",Queen Cozinha,Brazil,0
+1997-03-26 00.00.00.000,Tourtière,"134,09999",Queen Cozinha,Brazil,0
+1997-03-27 00.00.00.000,Raclette Courdavault,1650,Frankenversand,Germany,1
+1997-03-27 00.00.00.000,Röd Kaviar,240,Frankenversand,Germany,1
+1997-03-28 00.00.00.000,Queso Cabrales,"236,25",Piccolo und mehr,Austria,1
+1997-03-28 00.00.00.000,Pavlova,"314,1",Piccolo und mehr,Austria,1
+1997-03-31 00.00.00.000,Raclette Courdavault,3300,HILARION-Abastos,Venezuela,1
+1997-03-31 00.00.00.000,Scottish Longbreads,375,HILARION-Abastos,Venezuela,1
+1997-03-31 00.00.00.000,Rhönbräu Klosterbier,279,HILARION-Abastos,Venezuela,1
+1997-03-31 00.00.00.000,Gula Malacca,"247,98752",Furia Bacalhau e Frutos do Mar,Portugal,1
+1997-03-31 00.00.00.000,Original Frankfurter grüne Soße,"77,35",Furia Bacalhau e Frutos do Mar,Portugal,1
+1997-04-01 00.00.00.000,NuNuCa Nuß-Nougat-Creme,798,Bottom-Dollar Markets,Canada,0
+1997-04-01 00.00.00.000,Singaporean Hokkien Fried Mee,266,Bottom-Dollar Markets,Canada,0
+1997-04-02 00.00.00.000,Louisiana Fiery Hot Pepper Sauce,"284,175",La maison d'Asie,France,1
+1997-04-02 00.00.00.000,Louisiana Hot Spiced Okra,153,La maison d'Asie,France,1
+1997-04-02 00.00.00.000,Gudbrandsdalsost,"323,99997",La maison d'Asie,France,1
+1997-04-02 00.00.00.000,Gnocchi di nonna Alice,1140,Comércio Mineiro,Brazil,0
+1997-04-03 00.00.00.000,Tunnbröd,90,Laughing Bacchus Wine Cellars,Canada,0
+1997-04-03 00.00.00.000,Jack's New England Clam Chowder,193,Laughing Bacchus Wine Cellars,Canada,0
+1997-04-03 00.00.00.000,Original Frankfurter grüne Soße,65,Laughing Bacchus Wine Cellars,Canada,0
+1997-04-04 00.00.00.000,Gorgonzola Telino,"237,5",Tradiçao Hipermercados,Brazil,0
+1997-04-04 00.00.00.000,Gnocchi di nonna Alice,532,Lehmanns Marktstand,Germany,1
+1997-04-04 00.00.00.000,Mozzarella di Giovanni,870,Lehmanns Marktstand,Germany,1
+1997-04-04 00.00.00.000,Original Frankfurter grüne Soße,325,Lehmanns Marktstand,Germany,1
+1997-04-07 00.00.00.000,Guaraná Fantástica,63,HILARION-Abastos,Venezuela,1
+1997-04-07 00.00.00.000,Boston Crab Meat,92,HILARION-Abastos,Venezuela,1
+1997-04-07 00.00.00.000,Singaporean Hokkien Fried Mee,420,HILARION-Abastos,Venezuela,1
+1997-04-08 00.00.00.000,Rössle Sauerkraut,912,LILA-Supermercado,Venezuela,1
+1997-04-08 00.00.00.000,Maxilaku,500,LILA-Supermercado,Venezuela,1
+1997-04-09 00.00.00.000,Genen Shouyu,"176,7",La maison d'Asie,France,1
+1997-04-09 00.00.00.000,Rössle Sauerkraut,"346,56",La maison d'Asie,France,1
+1997-04-09 00.00.00.000,Tourtière,149,Blauer See Delikatessen,Germany,1
+1997-04-10 00.00.00.000,Rogede sild,"199,5",Pericles Comidas clásicas,Mexico,0
+1997-04-10 00.00.00.000,Perth Pasties,"196,79999",Pericles Comidas clásicas,Mexico,0
+1997-04-10 00.00.00.000,Laughing Lumberjack Lager,420,Pericles Comidas clásicas,Mexico,0
+1997-04-11 00.00.00.000,Tofu,"1627,5",Hungry Owl All-Night Grocers,Ireland,1
+1997-04-11 00.00.00.000,Louisiana Fiery Hot Pepper Sauce,421,Hungry Owl All-Night Grocers,Ireland,1
+1997-04-11 00.00.00.000,Chang,228,White Clover Markets,USA,0
+1997-04-11 00.00.00.000,Sir Rodney's Scones,120,White Clover Markets,USA,0
+1997-04-11 00.00.00.000,Perth Pasties,328,White Clover Markets,USA,0
+1997-04-11 00.00.00.000,Sirop d'érable,"712,5",White Clover Markets,USA,0
+1997-04-14 00.00.00.000,Tarte au sucre,"147,9",Mère Paillarde,Canada,0
+1997-04-15 00.00.00.000,NuNuCa Nuß-Nougat-Creme,"226,79999",Königlich Essen,Germany,1
+1997-04-15 00.00.00.000,Outback Lager,189,Königlich Essen,Germany,1
+1997-04-15 00.00.00.000,Ipoh Coffee,"586,50006",Antonio Moreno Taquería,Mexico,0
+1997-04-15 00.00.00.000,Chocolade,"162,56252",Antonio Moreno Taquería,Mexico,0
+1997-04-16 00.00.00.000,Konbu,60,Ottilies Käseladen,Germany,1
+1997-04-16 00.00.00.000,Chartreuse verte,180,Ottilies Käseladen,Germany,1
+1997-04-17 00.00.00.000,Rössle Sauerkraut,"136,79999",Blauer See Delikatessen,Germany,1
+1997-04-18 00.00.00.000,Thüringer Rostbratwurst,"4456,44",Save-a-lot Markets,USA,0
+1997-04-18 00.00.00.000,Rhönbräu Klosterbier,"251,09999",Save-a-lot Markets,USA,0
+1997-04-18 00.00.00.000,Chef Anton's Cajun Seasoning,"935,00006",Bon app',France,1
+1997-04-18 00.00.00.000,Uncle Bob's Organic Dried Pears,1275,Bon app',France,1
+1997-04-18 00.00.00.000,Northwoods Cranberry Sauce,340,Bon app',France,1
+1997-04-21 00.00.00.000,Guaraná Fantástica,"38,25",Familia Arquibaldo,Brazil,0
+1997-04-21 00.00.00.000,Spegesild,"91,8",Familia Arquibaldo,Brazil,0
+1997-04-21 00.00.00.000,Zaanse koeken,"48,449997",Familia Arquibaldo,Brazil,0
+1997-04-21 00.00.00.000,Camembert Pierrot,"346,80002",Familia Arquibaldo,Brazil,0
+1997-04-22 00.00.00.000,Sir Rodney's Scones,320,Die Wandernde Kuh,Germany,1
+1997-04-22 00.00.00.000,Mascarpone Fabioli,1280,Die Wandernde Kuh,Germany,1
+1997-04-22 00.00.00.000,Sirop d'érable,"342,00003",Die Wandernde Kuh,Germany,1
+1997-04-22 00.00.00.000,Sir Rodney's Marmalade,3159,Ernst Handel,Austria,1
+1997-04-22 00.00.00.000,Rössle Sauerkraut,1596,Ernst Handel,Austria,1
+1997-04-22 00.00.00.000,Gnocchi di nonna Alice,2660,Ernst Handel,Austria,1
+1997-04-22 00.00.00.000,Louisiana Fiery Hot Pepper Sauce,"820,94995",Ernst Handel,Austria,1
+1997-04-22 00.00.00.000,Rhönbräu Klosterbier,"387,5",Ernst Handel,Austria,1
+1997-04-23 00.00.00.000,Mishi Kobe Niku,"1319,2001",QUICK-Stop,Germany,1
+1997-04-23 00.00.00.000,Pavlova,"872,50006",QUICK-Stop,Germany,1
+1997-04-23 00.00.00.000,Schoggi Schokolade,5268,QUICK-Stop,Germany,1
+1997-04-23 00.00.00.000,Geitost,34,QUICK-Stop,Germany,1
+1997-04-23 00.00.00.000,Camembert Pierrot,"2427,6",QUICK-Stop,Germany,1
+1997-04-24 00.00.00.000,Carnarvon Tigers,"1406,25",Hungry Owl All-Night Grocers,Ireland,1
+1997-04-24 00.00.00.000,Jack's New England Clam Chowder,"694,7999",Hungry Owl All-Night Grocers,Ireland,1
+1997-04-24 00.00.00.000,Singaporean Hokkien Fried Mee,280,Hungry Owl All-Night Grocers,Ireland,1
+1997-04-24 00.00.00.000,Filo Mix,42,North/South,UK,1
+1997-04-24 00.00.00.000,Raclette Courdavault,220,North/South,UK,1
+1997-04-24 00.00.00.000,Outback Lager,90,North/South,UK,1
+1997-04-25 00.00.00.000,Guaraná Fantástica,"22,5",Tortuga Restaurante,Mexico,0
+1997-04-25 00.00.00.000,Côte de Blaye,"3952,5",Tortuga Restaurante,Mexico,0
+1997-04-25 00.00.00.000,Gula Malacca,"175,05",Tortuga Restaurante,Mexico,0
+1997-04-28 00.00.00.000,Ikura,"471,19998",Chop-suey Chinese,Switzerland,1
+1997-04-28 00.00.00.000,Gnocchi di nonna Alice,1520,Chop-suey Chinese,Switzerland,1
+1997-04-28 00.00.00.000,Camembert Pierrot,323,Chop-suey Chinese,Switzerland,1
+1997-04-29 00.00.00.000,Guaraná Fantástica,36,Santé Gourmet,Norway,1
+1997-04-29 00.00.00.000,Perth Pasties,164,Santé Gourmet,Norway,1
+1997-04-29 00.00.00.000,Steeleye Stout,54,Cactus Comidas para llevar,Argentina,0
+1997-04-29 00.00.00.000,Jack's New England Clam Chowder,"96,5",Cactus Comidas para llevar,Argentina,0
+1997-04-29 00.00.00.000,Scottish Longbreads,75,Cactus Comidas para llevar,Argentina,0
+1997-04-30 00.00.00.000,Chai,576,Lehmanns Marktstand,Germany,1
+1997-04-30 00.00.00.000,Northwoods Cranberry Sauce,960,Lehmanns Marktstand,Germany,1
+1997-04-30 00.00.00.000,Nord-Ost Matjeshering,"414,24",Lehmanns Marktstand,Germany,1
+1997-04-30 00.00.00.000,Boston Crab Meat,368,Lehmanns Marktstand,Germany,1
+1997-05-01 00.00.00.000,Alice Mutton,"877,49994",Seven Seas Imports,UK,1
+1997-05-01 00.00.00.000,Sir Rodney's Marmalade,"1093,5",Seven Seas Imports,UK,1
+1997-05-01 00.00.00.000,Gravad lax,"421,19998",Seven Seas Imports,UK,1
+1997-05-01 00.00.00.000,Jack's New England Clam Chowder,"52,109997",Seven Seas Imports,UK,1
+1997-05-01 00.00.00.000,Ikura,62,Berglunds snabbköp,Sweden,1
+1997-05-01 00.00.00.000,Nord-Ost Matjeshering,"258,9",Berglunds snabbköp,Sweden,1
+1997-05-01 00.00.00.000,Ipoh Coffee,2760,Berglunds snabbköp,Sweden,1
+1997-05-01 00.00.00.000,Tourtière,"111,75",Berglunds snabbköp,Sweden,1
+1997-05-02 00.00.00.000,Inlagd Sill,570,Bon app',France,1
+1997-05-02 00.00.00.000,Boston Crab Meat,"248,4",Bon app',France,1
+1997-05-05 00.00.00.000,Chai,"122,4",Wartian Herkku,Finland,1
+1997-05-05 00.00.00.000,Konbu,60,Wartian Herkku,Finland,1
+1997-05-05 00.00.00.000,Gnocchi di nonna Alice,969,Wartian Herkku,Finland,1
+1997-05-05 00.00.00.000,Chef Anton's Cajun Seasoning,"989,99994",QUICK-Stop,Germany,1
+1997-05-05 00.00.00.000,Inlagd Sill,513,QUICK-Stop,Germany,1
+1997-05-06 00.00.00.000,Queso Cabrales,63,Great Lakes Food Market,USA,0
+1997-05-06 00.00.00.000,Geitost,16,Great Lakes Food Market,USA,0
+1997-05-06 00.00.00.000,Mozzarella di Giovanni,"313,19998",Great Lakes Food Market,USA,0
+1997-05-07 00.00.00.000,Pâté chinois,336,Maison Dewey,Belgium,1
+1997-05-07 00.00.00.000,Scottish Longbreads,250,Maison Dewey,Belgium,1
+1997-05-07 00.00.00.000,Gudbrandsdalsost,360,Maison Dewey,Belgium,1
+1997-05-08 00.00.00.000,Alice Mutton,1560,Piccolo und mehr,Austria,1
+1997-05-08 00.00.00.000,Ipoh Coffee,1150,Piccolo und mehr,Austria,1
+1997-05-08 00.00.00.000,Sirop d'érable,570,Piccolo und mehr,Austria,1
+1997-05-08 00.00.00.000,Lakkalikööri,900,Piccolo und mehr,Austria,1
+1997-05-08 00.00.00.000,Raclette Courdavault,110,Océano Atlántico Ltda.,Argentina,0
+1997-05-09 00.00.00.000,Nord-Ost Matjeshering,"388,34998",Eastern Connection,UK,1
+1997-05-09 00.00.00.000,Louisiana Hot Spiced Okra,408,Eastern Connection,UK,1
+1997-05-12 00.00.00.000,Chef Anton's Cajun Seasoning,1045,Folk och fä HB,Sweden,1
+1997-05-12 00.00.00.000,Mozzarella di Giovanni,"835,19995",Folk och fä HB,Sweden,1
+1997-05-12 00.00.00.000,Röd Kaviar,342,Folk och fä HB,Sweden,1
+1997-05-12 00.00.00.000,Nord-Ost Matjeshering,"258,9",Lehmanns Marktstand,Germany,1
+1997-05-12 00.00.00.000,Boston Crab Meat,"147,2",Lehmanns Marktstand,Germany,1
+1997-05-12 00.00.00.000,Tourtière,"59,6",Lehmanns Marktstand,Germany,1
+1997-05-13 00.00.00.000,Queso Cabrales,945,Antonio Moreno Taquería,Mexico,0
+1997-05-13 00.00.00.000,Boston Crab Meat,"165,59999",Antonio Moreno Taquería,Mexico,0
+1997-05-13 00.00.00.000,Ravioli Angelo,"87,75",Antonio Moreno Taquería,Mexico,0
+1997-05-13 00.00.00.000,Raclette Courdavault,"742,5",Antonio Moreno Taquería,Mexico,0
+1997-05-14 00.00.00.000,Queso Manchego La Pastora,"427,5",Lehmanns Marktstand,Germany,1
+1997-05-14 00.00.00.000,Gorgonzola Telino,250,Lehmanns Marktstand,Germany,1
+1997-05-14 00.00.00.000,Geitost,75,Lehmanns Marktstand,Germany,1
+1997-05-14 00.00.00.000,Camembert Pierrot,"892,5",Lehmanns Marktstand,Germany,1
+1997-05-14 00.00.00.000,Gorgonzola Telino,375,Richter Supermarkt,Switzerland,1
+1997-05-14 00.00.00.000,Manjimup Dried Apples,318,Richter Supermarkt,Switzerland,1
+1997-05-14 00.00.00.000,Escargots de Bourgogne,265,Richter Supermarkt,Switzerland,1
+1997-05-14 00.00.00.000,Mozzarella di Giovanni,"730,8",Richter Supermarkt,Switzerland,1
+1997-05-14 00.00.00.000,Röd Kaviar,135,Richter Supermarkt,Switzerland,1
+1997-05-15 00.00.00.000,Outback Lager,105,B's Beverages,UK,1
+1997-05-15 00.00.00.000,Mozzarella di Giovanni,"34,8",B's Beverages,UK,1
+1997-05-16 00.00.00.000,Konbu,48,B's Beverages,UK,1
+1997-05-16 00.00.00.000,Sir Rodney's Scones,150,B's Beverages,UK,1
+1997-05-16 00.00.00.000,Geitost,"37,5",B's Beverages,UK,1
+1997-05-16 00.00.00.000,Maxilaku,120,B's Beverages,UK,1
+1997-05-19 00.00.00.000,Aniseed Syrup,600,QUICK-Stop,Germany,1
+1997-05-19 00.00.00.000,Gumbär Gummibärchen,"1249,2",QUICK-Stop,Germany,1
+1997-05-19 00.00.00.000,Côte de Blaye,7905,QUICK-Stop,Germany,1
+1997-05-19 00.00.00.000,Scottish Longbreads,"437,5",QUICK-Stop,Germany,1
+1997-05-19 00.00.00.000,Guaraná Fantástica,"141,74998",Hanari Carnes,Brazil,0
+1997-05-19 00.00.00.000,Côte de Blaye,"948,6",Hanari Carnes,Brazil,0
+1997-05-19 00.00.00.000,Louisiana Fiery Hot Pepper Sauce,"682,02",Hanari Carnes,Brazil,0
+1997-05-19 00.00.00.000,Flotemysost,"174,15001",Hanari Carnes,Brazil,0
+1997-05-20 00.00.00.000,Queso Cabrales,"299,24997",Königlich Essen,Germany,1
+1997-05-20 00.00.00.000,Tourtière,"169,86",Königlich Essen,Germany,1
+1997-05-21 00.00.00.000,Queso Manchego La Pastora,969,LILA-Supermercado,Venezuela,1
+1997-05-21 00.00.00.000,Tunnbröd,"535,5",LILA-Supermercado,Venezuela,1
+1997-05-21 00.00.00.000,Rössle Sauerkraut,"319,19998",Lonesome Pine Restaurant,USA,0
+1997-05-21 00.00.00.000,Laughing Lumberjack Lager,98,Lonesome Pine Restaurant,USA,0
+1997-05-22 00.00.00.000,Queso Cabrales,210,Lazy K Kountry Store,USA,0
+1997-05-23 00.00.00.000,Uncle Bob's Organic Dried Pears,300,Victuailles en stock,France,1
+1997-05-23 00.00.00.000,Steeleye Stout,540,Victuailles en stock,France,1
+1997-05-23 00.00.00.000,Tarte au sucre,1972,Victuailles en stock,France,1
+1997-05-23 00.00.00.000,Mascarpone Fabioli,"652,80005",Seven Seas Imports,UK,1
+1997-05-23 00.00.00.000,Inlagd Sill,1140,Seven Seas Imports,UK,1
+1997-05-26 00.00.00.000,Sasquatch Ale,105,Toms Spezialitäten,Germany,1
+1997-05-26 00.00.00.000,Jack's New England Clam Chowder,"135,09999",Toms Spezialitäten,Germany,1
+1997-05-27 00.00.00.000,Gorgonzola Telino,"584,375",QUICK-Stop,Germany,1
+1997-05-27 00.00.00.000,Rogede sild,"807,5",QUICK-Stop,Germany,1
+1997-05-27 00.00.00.000,Manjimup Dried Apples,"2162,4001",QUICK-Stop,Germany,1
+1997-05-28 00.00.00.000,Alice Mutton,"280,8",Godos Cocina Típica,Spain,1
+1997-05-28 00.00.00.000,Teatime Chocolate Biscuits,92,Godos Cocina Típica,Spain,1
+1997-05-28 00.00.00.000,Sir Rodney's Scones,54,Godos Cocina Típica,Spain,1
+1997-05-28 00.00.00.000,Sirop d'érable,"256,5",Godos Cocina Típica,Spain,1
+1997-05-28 00.00.00.000,Pavlova,"593,30005",Furia Bacalhau e Frutos do Mar,Portugal,1
+1997-05-28 00.00.00.000,Steeleye Stout,306,Furia Bacalhau e Frutos do Mar,Portugal,1
+1997-05-28 00.00.00.000,Gula Malacca,778,Furia Bacalhau e Frutos do Mar,Portugal,1
+1997-05-29 00.00.00.000,Gudbrandsdalsost,648,HILARION-Abastos,Venezuela,1
+1997-05-29 00.00.00.000,Rhönbräu Klosterbier,"232,5",HILARION-Abastos,Venezuela,1
+1997-05-30 00.00.00.000,Queso Cabrales,315,Wartian Herkku,Finland,1
+1997-05-30 00.00.00.000,Pavlova,"244,30002",Wartian Herkku,Finland,1
+1997-05-30 00.00.00.000,Gustaf's Knäckebröd,504,Wartian Herkku,Finland,1
+1997-05-30 00.00.00.000,Gorgonzola Telino,375,Wartian Herkku,Finland,1
+1997-05-30 00.00.00.000,Steeleye Stout,108,Wartian Herkku,Finland,1
+1997-05-30 00.00.00.000,Pavlova,"497,32504",Ottilies Käseladen,Germany,1
+1997-05-30 00.00.00.000,Tunnbröd,171,Ottilies Käseladen,Germany,1
+1997-05-30 00.00.00.000,Tarte au sucre,"936,69995",Ottilies Käseladen,Germany,1
+1997-05-30 00.00.00.000,Original Frankfurter grüne Soße,"123,49999",Ottilies Käseladen,Germany,1
+1997-06-02 00.00.00.000,Tofu,558,Save-a-lot Markets,USA,0
+1997-06-02 00.00.00.000,Teatime Chocolate Biscuits,"257,6",Save-a-lot Markets,USA,0
+1997-06-02 00.00.00.000,Guaraná Fantástica,"64,8",Save-a-lot Markets,USA,0
+1997-06-02 00.00.00.000,Manjimup Dried Apples,848,Save-a-lot Markets,USA,0
+1997-06-02 00.00.00.000,Gnocchi di nonna Alice,1216,Save-a-lot Markets,USA,0
+1997-06-03 00.00.00.000,Mozzarella di Giovanni,"835,19995",Simons bistro,Denmark,1
+1997-06-03 00.00.00.000,Wimmers gute Semmelknödel,"997,5",Lehmanns Marktstand,Germany,1
+1997-06-03 00.00.00.000,Rhönbräu Klosterbier,155,Lehmanns Marktstand,Germany,1
+1997-06-04 00.00.00.000,Zaanse koeken,"237,5",Around the Horn,UK,1
+1997-06-04 00.00.00.000,Manjimup Dried Apples,1060,Around the Horn,UK,1
+1997-06-04 00.00.00.000,Filo Mix,210,Around the Horn,UK,1
+1997-06-04 00.00.00.000,Perth Pasties,"590,39996",Around the Horn,UK,1
+1997-06-04 00.00.00.000,Röd Kaviar,45,Around the Horn,UK,1
+1997-06-05 00.00.00.000,Jack's New England Clam Chowder,"110,009995",Blondel père et fils,France,1
+1997-06-05 00.00.00.000,Pâté chinois,"410,4",Blondel père et fils,France,1
+1997-06-06 00.00.00.000,Nord-Ost Matjeshering,"517,8",Frankenversand,Germany,1
+1997-06-06 00.00.00.000,Tarte au sucre,"554,625",Frankenversand,Germany,1
+1997-06-06 00.00.00.000,Gula Malacca,"194,5",Folk och fä HB,Sweden,1
+1997-06-06 00.00.00.000,Manjimup Dried Apples,2650,Folk och fä HB,Sweden,1
+1997-06-09 00.00.00.000,Geitost,45,Reggiani Caseifici,Italy,1
+1997-06-09 00.00.00.000,Tarte au sucre,"443,69998",Reggiani Caseifici,Italy,1
+1997-06-10 00.00.00.000,Inlagd Sill,475,Ricardo Adocicados,Brazil,0
+1997-06-10 00.00.00.000,Filo Mix,490,Ricardo Adocicados,Brazil,0
+1997-06-10 00.00.00.000,Alice Mutton,"592,8",Rattlesnake Canyon Grocery,USA,0
+1997-06-10 00.00.00.000,Gorgonzola Telino,"71,25",Rattlesnake Canyon Grocery,USA,0
+1997-06-10 00.00.00.000,Pâté chinois,570,Rattlesnake Canyon Grocery,USA,0
+1997-06-11 00.00.00.000,Guaraná Fantástica,"101,24999",Mère Paillarde,Canada,0
+1997-06-11 00.00.00.000,Wimmers gute Semmelknödel,"538,64996",Mère Paillarde,Canada,0
+1997-06-12 00.00.00.000,Queso Cabrales,"624,75",Blondel père et fils,France,1
+1997-06-12 00.00.00.000,Carnarvon Tigers,"956,25",Blondel père et fils,France,1
+1997-06-12 00.00.00.000,Lakkalikööri,180,Blondel père et fils,France,1
+1997-06-12 00.00.00.000,Gorgonzola Telino,600,Hungry Owl All-Night Grocers,Ireland,1
+1997-06-12 00.00.00.000,Manjimup Dried Apples,159,Hungry Owl All-Night Grocers,Ireland,1
+1997-06-12 00.00.00.000,Raclette Courdavault,1760,Hungry Owl All-Night Grocers,Ireland,1
+1997-06-13 00.00.00.000,Ikura,155,Galería del gastronómo,Spain,1
+1997-06-16 00.00.00.000,Gorgonzola Telino,350,Rattlesnake Canyon Grocery,USA,0
+1997-06-16 00.00.00.000,Lakkalikööri,540,Rattlesnake Canyon Grocery,USA,0
+1997-06-17 00.00.00.000,Queso Cabrales,"299,24997",Mère Paillarde,Canada,0
+1997-06-17 00.00.00.000,Gnocchi di nonna Alice,2166,Mère Paillarde,Canada,0
+1997-06-17 00.00.00.000,Tofu,"217,38751",Ernst Handel,Austria,1
+1997-06-17 00.00.00.000,Singaporean Hokkien Fried Mee,"333,2",Ernst Handel,Austria,1
+1997-06-18 00.00.00.000,Pavlova,"188,45999",Berglunds snabbköp,Sweden,1
+1997-06-18 00.00.00.000,Mascarpone Fabioli,288,Berglunds snabbköp,Sweden,1
+1997-06-18 00.00.00.000,Boston Crab Meat,920,Berglunds snabbköp,Sweden,1
+1997-06-18 00.00.00.000,Rhönbräu Klosterbier,"104,625",Berglunds snabbköp,Sweden,1
+1997-06-19 00.00.00.000,Alice Mutton,702,Antonio Moreno Taquería,Mexico,0
+1997-06-19 00.00.00.000,Sasquatch Ale,560,Antonio Moreno Taquería,Mexico,0
+1997-06-19 00.00.00.000,Perth Pasties,820,Antonio Moreno Taquería,Mexico,0
+1997-06-19 00.00.00.000,Geitost,35,Trail's Head Gourmet Provisioners,USA,0
+1997-06-19 00.00.00.000,Boston Crab Meat,"36,8",Trail's Head Gourmet Provisioners,USA,0
+1997-06-19 00.00.00.000,Tarte au sucre,493,Trail's Head Gourmet Provisioners,USA,0
+1997-06-19 00.00.00.000,Wimmers gute Semmelknödel,"199,5",Trail's Head Gourmet Provisioners,USA,0
+1997-06-20 00.00.00.000,Raclette Courdavault,660,Morgenstern Gesundkost,Germany,1
+1997-06-20 00.00.00.000,Vegie-spread,"263,40002",Morgenstern Gesundkost,Germany,1
+1997-06-20 00.00.00.000,Mozzarella di Giovanni,1044,Morgenstern Gesundkost,Germany,1
+1997-06-20 00.00.00.000,Lakkalikööri,180,Morgenstern Gesundkost,Germany,1
+1997-06-23 00.00.00.000,Chai,180,Tortuga Restaurante,Mexico,0
+1997-06-23 00.00.00.000,Gorgonzola Telino,250,Tortuga Restaurante,Mexico,0
+1997-06-23 00.00.00.000,Gula Malacca,"408,45",Tortuga Restaurante,Mexico,0
+1997-06-23 00.00.00.000,Chartreuse verte,180,Trail's Head Gourmet Provisioners,USA,0
+1997-06-23 00.00.00.000,Rhönbräu Klosterbier,155,Trail's Head Gourmet Provisioners,USA,0
+1997-06-23 00.00.00.000,Original Frankfurter grüne Soße,234,Trail's Head Gourmet Provisioners,USA,0
+1997-06-24 00.00.00.000,Steeleye Stout,360,B's Beverages,UK,1
+1997-06-24 00.00.00.000,Ravioli Angelo,117,B's Beverages,UK,1
+1997-06-25 00.00.00.000,Genen Shouyu,155,Let's Stop N Shop,USA,0
+1997-06-25 00.00.00.000,Rhönbräu Klosterbier,"162,75",Let's Stop N Shop,USA,0
+1997-06-26 00.00.00.000,Tofu,"331,3125",Ottilies Käseladen,Germany,1
+1997-06-26 00.00.00.000,Jack's New England Clam Chowder,"82,50749",Ottilies Käseladen,Germany,1
+1997-06-26 00.00.00.000,Louisiana Fiery Hot Pepper Sauce,"599,925",Ottilies Käseladen,Germany,1
+1997-06-26 00.00.00.000,Rhönbräu Klosterbier,310,Familia Arquibaldo,Brazil,0
+1997-06-27 00.00.00.000,Ravioli Angelo,78,Blauer See Delikatessen,Germany,1
+1997-06-27 00.00.00.000,Lakkalikööri,252,Blauer See Delikatessen,Germany,1
+1997-06-30 00.00.00.000,Thüringer Rostbratwurst,"1237,9",Wartian Herkku,Finland,1
+1997-06-30 00.00.00.000,Camembert Pierrot,"693,60004",Wartian Herkku,Finland,1
+1997-06-30 00.00.00.000,Gudbrandsdalsost,306,Wartian Herkku,Finland,1
+1997-06-30 00.00.00.000,Gorgonzola Telino,"593,75",Blondel père et fils,France,1
+1997-07-01 00.00.00.000,Zaanse koeken,"142,5",Wellington Importadora,Brazil,0
+1997-07-02 00.00.00.000,Filo Mix,"23,800001",Reggiani Caseifici,Italy,1
+1997-07-02 00.00.00.000,Gumbär Gummibärchen,"187,38",Que Delícia,Brazil,0
+1997-07-02 00.00.00.000,Steeleye Stout,360,Que Delícia,Brazil,0
+1997-07-02 00.00.00.000,Original Frankfurter grüne Soße,260,Que Delícia,Brazil,0
+1997-07-03 00.00.00.000,Carnarvon Tigers,2000,QUICK-Stop,Germany,1
+1997-07-03 00.00.00.000,Singaporean Hokkien Fried Mee,1120,QUICK-Stop,Germany,1
+1997-07-04 00.00.00.000,Steeleye Stout,72,Great Lakes Food Market,USA,0
+1997-07-07 00.00.00.000,Chai,360,Mère Paillarde,Canada,0
+1997-07-07 00.00.00.000,Original Frankfurter grüne Soße,"740,99994",Mère Paillarde,Canada,0
+1997-07-07 00.00.00.000,Aniseed Syrup,140,Vaffeljernet,Denmark,1
+1997-07-07 00.00.00.000,Uncle Bob's Organic Dried Pears,300,Vaffeljernet,Denmark,1
+1997-07-07 00.00.00.000,Tourtière,"372,5",Vaffeljernet,Denmark,1
+1997-07-08 00.00.00.000,Genen Shouyu,"368,125",Lehmanns Marktstand,Germany,1
+1997-07-08 00.00.00.000,Gumbär Gummibärchen,"148,3425",Lehmanns Marktstand,Germany,1
+1997-07-09 00.00.00.000,Sir Rodney's Marmalade,"1360,8",Lehmanns Marktstand,Germany,1
+1997-07-09 00.00.00.000,Gudbrandsdalsost,576,Lehmanns Marktstand,Germany,1
+1997-07-09 00.00.00.000,Lakkalikööri,"57,600002",Lehmanns Marktstand,Germany,1
+1997-07-09 00.00.00.000,Filo Mix,168,Old World Delicatessen,USA,0
+1997-07-09 00.00.00.000,Escargots de Bourgogne,"397,5",Old World Delicatessen,USA,0
+1997-07-10 00.00.00.000,Steeleye Stout,405,Ernst Handel,Austria,1
+1997-07-10 00.00.00.000,Sirop d'érable,2565,Ernst Handel,Austria,1
+1997-07-10 00.00.00.000,Gudbrandsdalsost,1755,Ernst Handel,Austria,1
+1997-07-11 00.00.00.000,Gnocchi di nonna Alice,152,White Clover Markets,USA,0
+1997-07-11 00.00.00.000,Vegie-spread,"842,88007",White Clover Markets,USA,0
+1997-07-11 00.00.00.000,Rhönbräu Klosterbier,"186,00002",White Clover Markets,USA,0
+1997-07-11 00.00.00.000,Guaraná Fantástica,"126,00001",Piccolo und mehr,Austria,1
+1997-07-11 00.00.00.000,Ravioli Angelo,390,Piccolo und mehr,Austria,1
+1997-07-11 00.00.00.000,Louisiana Fiery Hot Pepper Sauce,"202,08",Piccolo und mehr,Austria,1
+1997-07-14 00.00.00.000,Schoggi Schokolade,2195,Rattlesnake Canyon Grocery,USA,0
+1997-07-14 00.00.00.000,Flotemysost,"193,5",Rattlesnake Canyon Grocery,USA,0
+1997-07-15 00.00.00.000,Tarte au sucre,493,B's Beverages,UK,1
+1997-07-16 00.00.00.000,Tourtière,"29,8",Hungry Coyote Import Store,USA,0
+1997-07-16 00.00.00.000,Röd Kaviar,450,Hungry Coyote Import Store,USA,0
+1997-07-16 00.00.00.000,Konbu,360,HILARION-Abastos,Venezuela,1
+1997-07-16 00.00.00.000,Raclette Courdavault,1925,HILARION-Abastos,Venezuela,1
+1997-07-17 00.00.00.000,Original Frankfurter grüne Soße,"48,75",Vaffeljernet,Denmark,1
+1997-07-18 00.00.00.000,Gustaf's Knäckebröd,1008,Save-a-lot Markets,USA,0
+1997-07-18 00.00.00.000,Maxilaku,475,Save-a-lot Markets,USA,0
+1997-07-18 00.00.00.000,Chocolade,"68,85",Furia Bacalhau e Frutos do Mar,Portugal,1
+1997-07-18 00.00.00.000,Lakkalikööri,"161,99998",Furia Bacalhau e Frutos do Mar,Portugal,1
+1997-07-21 00.00.00.000,Pavlova,"497,32504",Mère Paillarde,Canada,0
+1997-07-21 00.00.00.000,Raclette Courdavault,1045,Mère Paillarde,Canada,0
+1997-07-21 00.00.00.000,Camembert Pierrot,2261,Mère Paillarde,Canada,0
+1997-07-21 00.00.00.000,Flotemysost,"306,375",Mère Paillarde,Canada,0
+1997-07-22 00.00.00.000,Chef Anton's Cajun Seasoning,352,Tradiçao Hipermercados,Brazil,0
+1997-07-22 00.00.00.000,Pâté chinois,384,Tradiçao Hipermercados,Brazil,0
+1997-07-22 00.00.00.000,Tarte au sucre,"394,4",Tradiçao Hipermercados,Brazil,0
+1997-07-22 00.00.00.000,Uncle Bob's Organic Dried Pears,1350,Save-a-lot Markets,USA,0
+1997-07-22 00.00.00.000,Alice Mutton,3900,Save-a-lot Markets,USA,0
+1997-07-22 00.00.00.000,Geitost,35,Save-a-lot Markets,USA,0
+1997-07-22 00.00.00.000,Boston Crab Meat,"772,8",Save-a-lot Markets,USA,0
+1997-07-22 00.00.00.000,Mozzarella di Giovanni,"417,59998",Save-a-lot Markets,USA,0
+1997-07-23 00.00.00.000,Gnocchi di nonna Alice,1064,Toms Spezialitäten,Germany,1
+1997-07-24 00.00.00.000,Chai,54,Du monde entier,France,1
+1997-07-24 00.00.00.000,Ikura,310,Du monde entier,France,1
+1997-07-24 00.00.00.000,Sir Rodney's Scones,60,Du monde entier,France,1
+1997-07-25 00.00.00.000,Inlagd Sill,"299,25",La maison d'Asie,France,1
+1997-07-25 00.00.00.000,Chai,108,Wolski Zajazd,Poland,1
+1997-07-25 00.00.00.000,Chang,190,Wolski Zajazd,Poland,1
+1997-07-25 00.00.00.000,Camembert Pierrot,510,Wolski Zajazd,Poland,1
+1997-07-28 00.00.00.000,Ikura,2170,Save-a-lot Markets,USA,0
+1997-07-28 00.00.00.000,Inlagd Sill,1045,Save-a-lot Markets,USA,0
+1997-07-28 00.00.00.000,Maxilaku,360,Save-a-lot Markets,USA,0
+1997-07-28 00.00.00.000,Camembert Pierrot,1360,Save-a-lot Markets,USA,0
+1997-07-28 00.00.00.000,Lakkalikööri,1440,Save-a-lot Markets,USA,0
+1997-07-29 00.00.00.000,Konbu,"43,199997",HILARION-Abastos,Venezuela,1
+1997-07-29 00.00.00.000,Rhönbräu Klosterbier,310,HILARION-Abastos,Venezuela,1
+1997-07-29 00.00.00.000,Queso Cabrales,294,Blauer See Delikatessen,Germany,1
+1997-07-29 00.00.00.000,Sir Rodney's Scones,80,Blauer See Delikatessen,Germany,1
+1997-07-29 00.00.00.000,Chartreuse verte,90,Blauer See Delikatessen,Germany,1
+1997-07-30 00.00.00.000,Pâté chinois,120,Wilman Kala,Finland,1
+1997-07-31 00.00.00.000,Côte de Blaye,"3754,875",Great Lakes Food Market,USA,0
+1997-07-31 00.00.00.000,Gnocchi di nonna Alice,532,Great Lakes Food Market,USA,0
+1997-07-31 00.00.00.000,Outback Lager,"213,75",Great Lakes Food Market,USA,0
+1997-07-31 00.00.00.000,Flotemysost,"306,375",Great Lakes Food Market,USA,0
+1997-07-31 00.00.00.000,Raclette Courdavault,"1402,5",Great Lakes Food Market,USA,0
+1997-08-01 00.00.00.000,Grandma's Boysenberry Spread,1750,Mère Paillarde,Canada,0
+1997-08-01 00.00.00.000,Gnocchi di nonna Alice,760,Mère Paillarde,Canada,0
+1997-08-01 00.00.00.000,Scottish Longbreads,"187,5",Mère Paillarde,Canada,0
+1997-08-04 00.00.00.000,Sir Rodney's Scones,420,Mère Paillarde,Canada,0
+1997-08-04 00.00.00.000,Gustaf's Knäckebröd,840,Mère Paillarde,Canada,0
+1997-08-05 00.00.00.000,Guaraná Fantástica,"22,5",Laughing Bacchus Wine Cellars,Canada,0
+1997-08-05 00.00.00.000,Filo Mix,35,Laughing Bacchus Wine Cellars,Canada,0
+1997-08-05 00.00.00.000,Teatime Chocolate Biscuits,46,Island Trading,UK,1
+1997-08-05 00.00.00.000,Tunnbröd,90,Island Trading,UK,1
+1997-08-05 00.00.00.000,Outback Lager,300,Island Trading,UK,1
+1997-08-05 00.00.00.000,Flotemysost,"322,5",Island Trading,UK,1
+1997-08-06 00.00.00.000,Chang,380,Ricardo Adocicados,Brazil,0
+1997-08-06 00.00.00.000,Scottish Longbreads,180,Ricardo Adocicados,Brazil,0
+1997-08-07 00.00.00.000,Tofu,"488,25",Frankenversand,Germany,1
+1997-08-07 00.00.00.000,Teatime Chocolate Biscuits,"124,2",Frankenversand,Germany,1
+1997-08-07 00.00.00.000,Sir Rodney's Scones,225,Frankenversand,Germany,1
+1997-08-07 00.00.00.000,Guaraná Fantástica,"13,5",Frankenversand,Germany,1
+1997-08-07 00.00.00.000,Steeleye Stout,"485,99997",Frankenversand,Germany,1
+1997-08-07 00.00.00.000,Rössle Sauerkraut,456,The Cracker Box,USA,0
+1997-08-07 00.00.00.000,Thüringer Rostbratwurst,"742,74",The Cracker Box,USA,0
+1997-08-07 00.00.00.000,Gula Malacca,"194,5",The Cracker Box,USA,0
+1997-08-08 00.00.00.000,Tofu,"69,75",Ana Trujillo Emparedados y helados,Mexico,0
+1997-08-08 00.00.00.000,Singaporean Hokkien Fried Mee,70,Ana Trujillo Emparedados y helados,Mexico,0
+1997-08-08 00.00.00.000,Camembert Pierrot,340,Ana Trujillo Emparedados y helados,Mexico,0
+1997-08-11 00.00.00.000,Perth Pasties,"393,59998",Berglunds snabbköp,Sweden,1
+1997-08-11 00.00.00.000,Camembert Pierrot,680,Berglunds snabbköp,Sweden,1
+1997-08-11 00.00.00.000,Flotemysost,430,Berglunds snabbköp,Sweden,1
+1997-08-11 00.00.00.000,Tarte au sucre,"739,5",Save-a-lot Markets,USA,0
+1997-08-11 00.00.00.000,Röd Kaviar,"446,25",Save-a-lot Markets,USA,0
+1997-08-12 00.00.00.000,Chai,450,Blondel père et fils,France,1
+1997-08-12 00.00.00.000,Thüringer Rostbratwurst,"2475,8",Godos Cocina Típica,Spain,1
+1997-08-12 00.00.00.000,Wimmers gute Semmelknödel,"299,25",Godos Cocina Típica,Spain,1
+1997-08-13 00.00.00.000,Pâté chinois,"273,59998",Königlich Essen,Germany,1
+1997-08-13 00.00.00.000,Lakkalikööri,630,Königlich Essen,Germany,1
+1997-08-14 00.00.00.000,Rhönbräu Klosterbier,"55,8",La maison d'Asie,France,1
+1997-08-14 00.00.00.000,Chang,"541,5",Die Wandernde Kuh,Germany,1
+1997-08-14 00.00.00.000,Geitost,"47,5",Die Wandernde Kuh,Germany,1
+1997-08-15 00.00.00.000,Queso Manchego La Pastora,"1162,7999",Ernst Handel,Austria,1
+1997-08-15 00.00.00.000,Konbu,"66,3",Ernst Handel,Austria,1
+1997-08-15 00.00.00.000,Gumbär Gummibärchen,"929,09247",Ernst Handel,Austria,1
+1997-08-15 00.00.00.000,Tarte au sucre,"3352,4",Ernst Handel,Austria,1
+1997-08-15 00.00.00.000,Uncle Bob's Organic Dried Pears,1050,Folies gourmandes,France,1
+1997-08-15 00.00.00.000,Carnarvon Tigers,3125,Folies gourmandes,France,1
+1997-08-15 00.00.00.000,Manjimup Dried Apples,795,Folies gourmandes,France,1
+1997-08-15 00.00.00.000,Rhönbräu Klosterbier,"15,5",Folies gourmandes,France,1
+1997-08-18 00.00.00.000,Chef Anton's Cajun Seasoning,198,Magazzini Alimentari Riuniti,Italy,1
+1997-08-18 00.00.00.000,Chef Anton's Gumbo Mix,"288,225",Magazzini Alimentari Riuniti,Italy,1
+1997-08-18 00.00.00.000,Gustaf's Knäckebröd,840,Magazzini Alimentari Riuniti,Italy,1
+1997-08-19 00.00.00.000,Chef Anton's Cajun Seasoning,550,Wartian Herkku,Finland,1
+1997-08-19 00.00.00.000,Escargots de Bourgogne,"79,5",Wartian Herkku,Finland,1
+1997-08-19 00.00.00.000,Queso Cabrales,210,Queen Cozinha,Brazil,0
+1997-08-19 00.00.00.000,Valkoinen suklaa,"385,9375",Queen Cozinha,Brazil,0
+1997-08-19 00.00.00.000,Gnocchi di nonna Alice,2166,Queen Cozinha,Brazil,0
+1997-08-20 00.00.00.000,Rogede sild,190,LINO-Delicateses,Venezuela,1
+1997-08-20 00.00.00.000,Louisiana Fiery Hot Pepper Sauce,"442,05",LINO-Delicateses,Venezuela,1
+1997-08-20 00.00.00.000,Mozzarella di Giovanni,2088,LINO-Delicateses,Venezuela,1
+1997-08-20 00.00.00.000,Carnarvon Tigers,500,Santé Gourmet,Norway,1
+1997-08-21 00.00.00.000,Gudbrandsdalsost,540,Die Wandernde Kuh,Germany,1
+1997-08-21 00.00.00.000,Outback Lager,"168,75",Die Wandernde Kuh,Germany,1
+1997-08-22 00.00.00.000,Chang,950,HILARION-Abastos,Venezuela,1
+1997-08-22 00.00.00.000,Boston Crab Meat,1104,HILARION-Abastos,Venezuela,1
+1997-08-22 00.00.00.000,Sir Rodney's Scones,240,Simons bistro,Denmark,1
+1997-08-22 00.00.00.000,Sirop d'érable,"456,00003",Simons bistro,Denmark,1
+1997-08-25 00.00.00.000,Rössle Sauerkraut,"512,99994",Alfreds Futterkiste,Germany,1
+1997-08-25 00.00.00.000,Chartreuse verte,"283,5",Alfreds Futterkiste,Germany,1
+1997-08-25 00.00.00.000,Spegesild,18,Alfreds Futterkiste,Germany,1
+1997-08-25 00.00.00.000,Carnarvon Tigers,225,Wellington Importadora,Brazil,0
+1997-08-25 00.00.00.000,Ipoh Coffee,920,Wellington Importadora,Brazil,0
+1997-08-25 00.00.00.000,Spegesild,"226,79999",Wellington Importadora,Brazil,0
+1997-08-26 00.00.00.000,Carnarvon Tigers,1250,Hanari Carnes,Brazil,0
+1997-08-26 00.00.00.000,Inlagd Sill,285,Hanari Carnes,Brazil,0
+1997-08-27 00.00.00.000,Chai,"202,5",Hungry Owl All-Night Grocers,Ireland,1
+1997-08-27 00.00.00.000,Ikura,"418,5",Hungry Owl All-Night Grocers,Ireland,1
+1997-08-27 00.00.00.000,Flotemysost,"483,75",Hungry Owl All-Night Grocers,Ireland,1
+1997-08-27 00.00.00.000,Original Frankfurter grüne Soße,"341,25",Hungry Owl All-Night Grocers,Ireland,1
+1997-08-27 00.00.00.000,Teatime Chocolate Biscuits,276,Que Delícia,Brazil,0
+1997-08-27 00.00.00.000,Chartreuse verte,360,Que Delícia,Brazil,0
+1997-08-28 00.00.00.000,Gustaf's Knäckebröd,315,Ricardo Adocicados,Brazil,0
+1997-08-28 00.00.00.000,Guaraná Fantástica,"57,375",Ricardo Adocicados,Brazil,0
+1997-08-28 00.00.00.000,Rössle Sauerkraut,912,Maison Dewey,Belgium,1
+1997-08-28 00.00.00.000,Mozzarella di Giovanni,522,Maison Dewey,Belgium,1
+1997-08-29 00.00.00.000,Nord-Ost Matjeshering,"776,69995",Familia Arquibaldo,Brazil,0
+1997-08-29 00.00.00.000,Perth Pasties,"778,99994",Familia Arquibaldo,Brazil,0
+1997-08-29 00.00.00.000,Tourtière,"223,5",Familia Arquibaldo,Brazil,0
+1997-09-01 00.00.00.000,Teatime Chocolate Biscuits,"82,799995",Die Wandernde Kuh,Germany,1
+1997-09-01 00.00.00.000,Gustaf's Knäckebröd,315,Die Wandernde Kuh,Germany,1
+1997-09-01 00.00.00.000,Nord-Ost Matjeshering,"38,835",Gourmet Lanchonetes,Brazil,0
+1997-09-01 00.00.00.000,Singaporean Hokkien Fried Mee,280,Gourmet Lanchonetes,Brazil,0
+1997-09-02 00.00.00.000,Pavlova,"471,15",Frankenversand,Germany,1
+1997-09-02 00.00.00.000,Camembert Pierrot,612,Frankenversand,Germany,1
+1997-09-02 00.00.00.000,Chef Anton's Cajun Seasoning,"237,59999",Berglunds snabbköp,Sweden,1
+1997-09-02 00.00.00.000,Chartreuse verte,"323,99997",Berglunds snabbköp,Sweden,1
+1997-09-02 00.00.00.000,Tourtière,"40,229996",Berglunds snabbköp,Sweden,1
+1997-09-03 00.00.00.000,Jack's New England Clam Chowder,"154,4",Reggiani Caseifici,Italy,1
+1997-09-04 00.00.00.000,Tofu,"62,774998",Great Lakes Food Market,USA,0
+1997-09-04 00.00.00.000,Gula Malacca,"490,14",Great Lakes Food Market,USA,0
+1997-09-04 00.00.00.000,Zaanse koeken,"51,300003",Great Lakes Food Market,USA,0
+1997-09-04 00.00.00.000,Genen Shouyu,775,Save-a-lot Markets,USA,0
+1997-09-04 00.00.00.000,Jack's New England Clam Chowder,"231,59999",Save-a-lot Markets,USA,0
+1997-09-04 00.00.00.000,Spegesild,540,Save-a-lot Markets,USA,0
+1997-09-04 00.00.00.000,Zaanse koeken,95,Save-a-lot Markets,USA,0
+1997-09-04 00.00.00.000,Gnocchi di nonna Alice,1710,Save-a-lot Markets,USA,0
+1997-09-04 00.00.00.000,Camembert Pierrot,1020,Save-a-lot Markets,USA,0
+1997-09-05 00.00.00.000,Sir Rodney's Scones,600,QUICK-Stop,Germany,1
+1997-09-05 00.00.00.000,Boston Crab Meat,"1223,6",QUICK-Stop,Germany,1
+1997-09-05 00.00.00.000,Camembert Pierrot,"1776,5",QUICK-Stop,Germany,1
+1997-09-05 00.00.00.000,Original Frankfurter grüne Soße,"864,49994",QUICK-Stop,Germany,1
+1997-09-05 00.00.00.000,Gorgonzola Telino,"237,5",Queen Cozinha,Brazil,0
+1997-09-05 00.00.00.000,Boston Crab Meat,"419,52",Queen Cozinha,Brazil,0
+1997-09-05 00.00.00.000,Outback Lager,570,Queen Cozinha,Brazil,0
+1997-09-08 00.00.00.000,Sir Rodney's Marmalade,1701,Hungry Coyote Import Store,USA,0
+1997-09-09 00.00.00.000,Chartreuse verte,"43,2",Hungry Owl All-Night Grocers,Ireland,1
+1997-09-09 00.00.00.000,Escargots de Bourgogne,"519,4",Hungry Owl All-Night Grocers,Ireland,1
+1997-09-09 00.00.00.000,Scottish Longbreads,125,Lonesome Pine Restaurant,USA,0
+1997-09-10 00.00.00.000,Boston Crab Meat,"524,39996",Bon app',France,1
+1997-09-10 00.00.00.000,Singaporean Hokkien Fried Mee,399,Bon app',France,1
+1997-09-10 00.00.00.000,Manjimup Dried Apples,1007,Bon app',France,1
+1997-09-10 00.00.00.000,Ikura,"632,4",Furia Bacalhau e Frutos do Mar,Portugal,1
+1997-09-10 00.00.00.000,Gnocchi di nonna Alice,"387,59998",Furia Bacalhau e Frutos do Mar,Portugal,1
+1997-09-10 00.00.00.000,Louisiana Fiery Hot Pepper Sauce,"268,3875",Furia Bacalhau e Frutos do Mar,Portugal,1
+1997-09-11 00.00.00.000,Manjimup Dried Apples,1060,Lonesome Pine Restaurant,USA,0
+1997-09-11 00.00.00.000,Raclette Courdavault,55,Lonesome Pine Restaurant,USA,0
+1997-09-11 00.00.00.000,Lakkalikööri,180,Lonesome Pine Restaurant,USA,0
+1997-09-12 00.00.00.000,Thüringer Rostbratwurst,"4456,44",Richter Supermarkt,Switzerland,1
+1997-09-12 00.00.00.000,Louisiana Fiery Hot Pepper Sauce,"210,5",Richter Supermarkt,Switzerland,1
+1997-09-12 00.00.00.000,Gudbrandsdalsost,1296,Ernst Handel,Austria,1
+1997-09-12 00.00.00.000,Flotemysost,"240,80002",Ernst Handel,Austria,1
+1997-09-15 00.00.00.000,Gorgonzola Telino,90,Die Wandernde Kuh,Germany,1
+1997-09-15 00.00.00.000,Pâté chinois,"86,399994",Die Wandernde Kuh,Germany,1
+1997-09-15 00.00.00.000,Wimmers gute Semmelknödel,"448,875",Die Wandernde Kuh,Germany,1
+1997-09-15 00.00.00.000,Inlagd Sill,570,Simons bistro,Denmark,1
+1997-09-16 00.00.00.000,Tunnbröd,288,Frankenversand,Germany,1
+1997-09-16 00.00.00.000,Spegesild,720,Frankenversand,Germany,1
+1997-09-16 00.00.00.000,Laughing Lumberjack Lager,350,Frankenversand,Germany,1
+1997-09-16 00.00.00.000,Röd Kaviar,750,Frankenversand,Germany,1
+1997-09-16 00.00.00.000,Rhönbräu Klosterbier,"193,75",Frankenversand,Germany,1
+1997-09-17 00.00.00.000,Pavlova,"174,5",France restauration,France,1
+1997-09-17 00.00.00.000,Tarte au sucre,493,France restauration,France,1
+1997-09-17 00.00.00.000,Louisiana Fiery Hot Pepper Sauce,"252,59999",France restauration,France,1
+1997-09-17 00.00.00.000,Côte de Blaye,"3557,25",Berglunds snabbköp,Sweden,1
+1997-09-17 00.00.00.000,Flotemysost,258,Berglunds snabbköp,Sweden,1
+1997-09-18 00.00.00.000,Pavlova,"52,350002",Wilman Kala,Finland,1
+1997-09-18 00.00.00.000,Singaporean Hokkien Fried Mee,84,Wilman Kala,Finland,1
+1997-09-18 00.00.00.000,Ipoh Coffee,276,Wilman Kala,Finland,1
+1997-09-18 00.00.00.000,Tunnbröd,45,Island Trading,UK,1
+1997-09-19 00.00.00.000,Tofu,"697,5",Frankenversand,Germany,1
+1997-09-19 00.00.00.000,Perth Pasties,328,Frankenversand,Germany,1
+1997-09-19 00.00.00.000,Escargots de Bourgogne,"397,5",Frankenversand,Germany,1
+1997-09-22 00.00.00.000,Ikura,62,Tortuga Restaurante,Mexico,0
+1997-09-22 00.00.00.000,Teatime Chocolate Biscuits,"64,4",Tortuga Restaurante,Mexico,0
+1997-09-22 00.00.00.000,Gula Malacca,"408,45",Tortuga Restaurante,Mexico,0
+1997-09-22 00.00.00.000,Gumbär Gummibärchen,"796,365",Antonio Moreno Taquería,Mexico,0
+1997-09-22 00.00.00.000,Geitost,17,Antonio Moreno Taquería,Mexico,0
+1997-09-23 00.00.00.000,Queso Manchego La Pastora,3800,Save-a-lot Markets,USA,0
+1997-09-23 00.00.00.000,Geitost,75,Save-a-lot Markets,USA,0
+1997-09-23 00.00.00.000,Jack's New England Clam Chowder,1158,Save-a-lot Markets,USA,0
+1997-09-23 00.00.00.000,Tourtière,"223,5",Save-a-lot Markets,USA,0
+1997-09-23 00.00.00.000,Raclette Courdavault,660,Blondel père et fils,France,1
+1997-09-24 00.00.00.000,Pavlova,"654,375",Old World Delicatessen,USA,0
+1997-09-24 00.00.00.000,Gorgonzola Telino,"187,5",Old World Delicatessen,USA,0
+1997-09-24 00.00.00.000,Singaporean Hokkien Fried Mee,420,Old World Delicatessen,USA,0
+1997-09-25 00.00.00.000,Teatime Chocolate Biscuits,"248,4",Great Lakes Food Market,USA,0
+1997-09-25 00.00.00.000,Sir Rodney's Scones,108,Great Lakes Food Market,USA,0
+1997-09-25 00.00.00.000,Wimmers gute Semmelknödel,931,Great Lakes Food Market,USA,0
+1997-09-25 00.00.00.000,Geitost,75,Antonio Moreno Taquería,Mexico,0
+1997-09-25 00.00.00.000,Louisiana Hot Spiced Okra,68,Antonio Moreno Taquería,Mexico,0
+1997-09-25 00.00.00.000,Rhönbräu Klosterbier,"232,5",Antonio Moreno Taquería,Mexico,0
+1997-09-26 00.00.00.000,Filo Mix,63,Du monde entier,France,1
+1997-09-26 00.00.00.000,Boston Crab Meat,368,Ottilies Käseladen,Germany,1
+1997-09-26 00.00.00.000,Zaanse koeken,380,Ottilies Käseladen,Germany,1
+1997-09-26 00.00.00.000,Camembert Pierrot,1020,Ottilies Käseladen,Germany,1
+1997-09-29 00.00.00.000,Ikura,620,Gourmet Lanchonetes,Brazil,0
+1997-09-29 00.00.00.000,Jack's New England Clam Chowder,"38,6",Gourmet Lanchonetes,Brazil,0
+1997-09-29 00.00.00.000,Zaanse koeken,"142,5",Gourmet Lanchonetes,Brazil,0
+1997-09-30 00.00.00.000,Alice Mutton,936,Piccolo und mehr,Austria,1
+1997-09-30 00.00.00.000,Gumbär Gummibärchen,"468,44998",Piccolo und mehr,Austria,1
+1997-09-30 00.00.00.000,Mishi Kobe Niku,"3637,5",Hungry Owl All-Night Grocers,Ireland,1
+1997-09-30 00.00.00.000,Thüringer Rostbratwurst,"1237,9",Hungry Owl All-Night Grocers,Ireland,1
+1997-09-30 00.00.00.000,Inlagd Sill,"85,5",Hungry Owl All-Night Grocers,Ireland,1
+1997-10-01 00.00.00.000,Ikura,"502,19998",Vaffeljernet,Denmark,1
+1997-10-01 00.00.00.000,Rössle Sauerkraut,"2462,4",Vaffeljernet,Denmark,1
+1997-10-01 00.00.00.000,Sasquatch Ale,196,Vaffeljernet,Denmark,1
+1997-10-01 00.00.00.000,Chai,"472,5",Berglunds snabbköp,Sweden,1
+1997-10-02 00.00.00.000,Gnocchi di nonna Alice,570,Hanari Carnes,Brazil,0
+1997-10-02 00.00.00.000,Original Frankfurter grüne Soße,"292,5",Hanari Carnes,Brazil,0
+1997-10-03 00.00.00.000,Chai,540,QUICK-Stop,Germany,1
+1997-10-03 00.00.00.000,Thüringer Rostbratwurst,"4951,6",QUICK-Stop,Germany,1
+1997-10-03 00.00.00.000,Ipoh Coffee,1840,QUICK-Stop,Germany,1
+1997-10-03 00.00.00.000,Gula Malacca,"466,80002",QUICK-Stop,Germany,1
+1997-10-03 00.00.00.000,Tarte au sucre,"2366,4",QUICK-Stop,Germany,1
+1997-10-03 00.00.00.000,Vegie-spread,878,Alfred's Futterkiste,Germany,1
+1997-10-06 00.00.00.000,Mishi Kobe Niku,582,White Clover Markets,USA,0
+1997-10-06 00.00.00.000,Tourtière,"379,95",White Clover Markets,USA,0
+1997-10-06 00.00.00.000,Gudbrandsdalsost,918,White Clover Markets,USA,0
+1997-10-06 00.00.00.000,Röd Kaviar,"191,25",White Clover Markets,USA,0
+1997-10-06 00.00.00.000,Uncle Bob's Organic Dried Pears,2700,QUICK-Stop,Germany,1
+1997-10-06 00.00.00.000,Raclette Courdavault,1375,QUICK-Stop,Germany,1
+1997-10-06 00.00.00.000,Outback Lager,750,QUICK-Stop,Germany,1
+1997-10-07 00.00.00.000,Northwoods Cranberry Sauce,400,Wilman Kala,Finland,1
+1997-10-07 00.00.00.000,Queso Manchego La Pastora,152,Wilman Kala,Finland,1
+1997-10-07 00.00.00.000,Guaraná Fantástica,90,Wilman Kala,Finland,1
+1997-10-08 00.00.00.000,Alice Mutton,780,White Clover Markets,USA,0
+1997-10-08 00.00.00.000,Spegesild,216,White Clover Markets,USA,0
+1997-10-08 00.00.00.000,Teatime Chocolate Biscuits,"48,299995",LINO-Delicateses,Venezuela,1
+1997-10-08 00.00.00.000,Steeleye Stout,"121,5",LINO-Delicateses,Venezuela,1
+1997-10-08 00.00.00.000,Escargots de Bourgogne,"298,125",LINO-Delicateses,Venezuela,1
+1997-10-08 00.00.00.000,Outback Lager,"337,5",LINO-Delicateses,Venezuela,1
+1997-10-09 00.00.00.000,Queso Cabrales,315,Ernst Handel,Austria,1
+1997-10-09 00.00.00.000,Alice Mutton,"296,4",Ernst Handel,Austria,1
+1997-10-09 00.00.00.000,Thüringer Rostbratwurst,"1411,206",Ernst Handel,Austria,1
+1997-10-09 00.00.00.000,Louisiana Fiery Hot Pepper Sauce,"1299,8375",Ernst Handel,Austria,1
+1997-10-09 00.00.00.000,Outback Lager,114,Ernst Handel,Austria,1
+1997-10-09 00.00.00.000,Zaanse koeken,114,Morgenstern Gesundkost,Germany,1
+1997-10-10 00.00.00.000,Chai,72,Save-a-lot Markets,USA,0
+1997-10-10 00.00.00.000,Sasquatch Ale,"134,4",Save-a-lot Markets,USA,0
+1997-10-10 00.00.00.000,Scottish Longbreads,400,Save-a-lot Markets,USA,0
+1997-10-10 00.00.00.000,Flotemysost,1032,Save-a-lot Markets,USA,0
+1997-10-13 00.00.00.000,Raclette Courdavault,"1963,5",Hungry Owl All-Night Grocers,Ireland,1
+1997-10-13 00.00.00.000,Flotemysost,"365,5",Hungry Owl All-Night Grocers,Ireland,1
+1997-10-13 00.00.00.000,Lakkalikööri,"535,5",Hungry Owl All-Night Grocers,Ireland,1
+1997-10-13 00.00.00.000,Aniseed Syrup,60,Alfred's Futterkiste,Germany,1
+1997-10-13 00.00.00.000,Lakkalikööri,270,Alfred's Futterkiste,Germany,1
+1997-10-14 00.00.00.000,Chang,95,Folk och fä HB,Sweden,1
+1997-10-14 00.00.00.000,Raclette Courdavault,1925,Folk och fä HB,Sweden,1
+1997-10-14 00.00.00.000,Röd Kaviar,525,Folk och fä HB,Sweden,1
+1997-10-14 00.00.00.000,Chef Anton's Cajun Seasoning,132,Queen Cozinha,Brazil,0
+1997-10-14 00.00.00.000,Guaraná Fantástica,"157,5",Queen Cozinha,Brazil,0
+1997-10-14 00.00.00.000,Chocolade,306,Queen Cozinha,Brazil,0
+1997-10-15 00.00.00.000,Gorgonzola Telino,250,HILARION-Abastos,Venezuela,1
+1997-10-15 00.00.00.000,Mascarpone Fabioli,128,HILARION-Abastos,Venezuela,1
+1997-10-16 00.00.00.000,Pavlova,349,Old World Delicatessen,USA,0
+1997-10-16 00.00.00.000,Ipoh Coffee,1104,Old World Delicatessen,USA,0
+1997-10-16 00.00.00.000,Raclette Courdavault,440,Old World Delicatessen,USA,0
+1997-10-16 00.00.00.000,Pâté chinois,504,Around the Horn,UK,1
+1997-10-16 00.00.00.000,Ravioli Angelo,780,Around the Horn,UK,1
+1997-10-16 00.00.00.000,Outback Lager,357,Around the Horn,UK,1
+1997-10-17 00.00.00.000,Chef Anton's Gumbo Mix,"85,4",The Big Cheese,USA,0
+1997-10-17 00.00.00.000,Inlagd Sill,95,The Big Cheese,USA,0
+1997-10-17 00.00.00.000,Northwoods Cranberry Sauce,1600,Gourmet Lanchonetes,Brazil,0
+1997-10-17 00.00.00.000,Manjimup Dried Apples,1484,Gourmet Lanchonetes,Brazil,0
+1997-10-17 00.00.00.000,Camembert Pierrot,340,Gourmet Lanchonetes,Brazil,0
+1997-10-20 00.00.00.000,Teatime Chocolate Biscuits,46,Franchi S.p.A.,Italy,1
+1997-10-20 00.00.00.000,Zaanse koeken,"47,5",Franchi S.p.A.,Italy,1
+1997-10-21 00.00.00.000,Teatime Chocolate Biscuits,"110,399994",Save-a-lot Markets,USA,0
+1997-10-21 00.00.00.000,Jack's New England Clam Chowder,"405,3",Save-a-lot Markets,USA,0
+1997-10-21 00.00.00.000,Perth Pasties,3936,Save-a-lot Markets,USA,0
+1997-10-21 00.00.00.000,Perth Pasties,"93,479996",Hungry Owl All-Night Grocers,Ireland,1
+1997-10-21 00.00.00.000,Gnocchi di nonna Alice,1140,Hungry Owl All-Night Grocers,Ireland,1
+1997-10-22 00.00.00.000,Ikura,558,Save-a-lot Markets,USA,0
+1997-10-22 00.00.00.000,Gumbär Gummibärchen,"936,89996",Save-a-lot Markets,USA,0
+1997-10-22 00.00.00.000,Rogede sild,1045,Save-a-lot Markets,USA,0
+1997-10-22 00.00.00.000,Spegesild,288,Save-a-lot Markets,USA,0
+1997-10-22 00.00.00.000,Chang,"427,5",Save-a-lot Markets,USA,0
+1997-10-22 00.00.00.000,Alice Mutton,"789,75",Save-a-lot Markets,USA,0
+1997-10-22 00.00.00.000,Zaanse koeken,"356,25",Save-a-lot Markets,USA,0
+1997-10-22 00.00.00.000,Gnocchi di nonna Alice,513,Save-a-lot Markets,USA,0
+1997-10-22 00.00.00.000,Escargots de Bourgogne,"119,25",Save-a-lot Markets,USA,0
+1997-10-23 00.00.00.000,Ikura,651,Bon app',France,1
+1997-10-23 00.00.00.000,Flotemysost,645,Bon app',France,1
+1997-10-24 00.00.00.000,Sir Rodney's Scones,50,Rancho grande,Argentina,0
+1997-10-24 00.00.00.000,Manjimup Dried Apples,371,Rancho grande,Argentina,0
+1997-10-24 00.00.00.000,Sirop d'érable,285,Rancho grande,Argentina,0
+1997-10-24 00.00.00.000,Sir Rodney's Scones,304,Frankenversand,Germany,1
+1997-10-24 00.00.00.000,Tourtière,"111,75",Frankenversand,Germany,1
+1997-10-24 00.00.00.000,Gudbrandsdalsost,855,Frankenversand,Germany,1
+1997-10-27 00.00.00.000,Queso Manchego La Pastora,1368,Königlich Essen,Germany,1
+1997-10-27 00.00.00.000,Pavlova,349,Königlich Essen,Germany,1
+1997-10-27 00.00.00.000,Inlagd Sill,760,Königlich Essen,Germany,1
+1997-10-27 00.00.00.000,Tarte au sucre,986,Königlich Essen,Germany,1
+1997-10-27 00.00.00.000,Carnarvon Tigers,"562,5",Let's Stop N Shop,USA,0
+1997-10-27 00.00.00.000,Nord-Ost Matjeshering,"58,2525",Let's Stop N Shop,USA,0
+1997-10-27 00.00.00.000,Tourtière,"223,49998",Let's Stop N Shop,USA,0
+1997-10-28 00.00.00.000,Steeleye Stout,378,Que Delícia,Brazil,0
+1997-10-28 00.00.00.000,Flotemysost,172,Que Delícia,Brazil,0
+1997-10-29 00.00.00.000,Gula Malacca,"923,87506",QUICK-Stop,Germany,1
+1997-10-29 00.00.00.000,Chang,57,Save-a-lot Markets,USA,0
+1997-10-29 00.00.00.000,Gorgonzola Telino,625,Save-a-lot Markets,USA,0
+1997-10-29 00.00.00.000,Scottish Longbreads,"562,5",Save-a-lot Markets,USA,0
+1997-10-29 00.00.00.000,Rhönbräu Klosterbier,"325,5",Save-a-lot Markets,USA,0
+1997-10-30 00.00.00.000,Gumbär Gummibärchen,"468,44998",White Clover Markets,USA,0
+1997-10-30 00.00.00.000,Ikura,496,Mère Paillarde,Canada,0
+1997-10-30 00.00.00.000,Sirop d'érable,"142,5",Mère Paillarde,Canada,0
+1997-10-31 00.00.00.000,Jack's New England Clam Chowder,"115,799995",Familia Arquibaldo,Brazil,0
+1997-10-31 00.00.00.000,Filo Mix,28,Familia Arquibaldo,Brazil,0
+1997-10-31 00.00.00.000,Pâté chinois,144,Familia Arquibaldo,Brazil,0
+1997-11-03 00.00.00.000,Chef Anton's Cajun Seasoning,550,Eastern Connection,UK,1
+1997-11-03 00.00.00.000,Queso Cabrales,105,Eastern Connection,UK,1
+1997-11-03 00.00.00.000,Alice Mutton,741,Reggiani Caseifici,Italy,1
+1997-11-03 00.00.00.000,Gnocchi di nonna Alice,361,Reggiani Caseifici,Italy,1
+1997-11-03 00.00.00.000,Raclette Courdavault,"522,5",Reggiani Caseifici,Italy,1
+1997-11-04 00.00.00.000,Nord-Ost Matjeshering,"388,34998",Queen Cozinha,Brazil,0
+1997-11-04 00.00.00.000,Boston Crab Meat,"110,399994",Queen Cozinha,Brazil,0
+1997-11-04 00.00.00.000,Pâté chinois,288,Queen Cozinha,Brazil,0
+1997-11-04 00.00.00.000,Camembert Pierrot,510,Queen Cozinha,Brazil,0
+1997-11-04 00.00.00.000,Chai,900,LINO-Delicateses,Venezuela,1
+1997-11-04 00.00.00.000,Sir Rodney's Scones,300,LINO-Delicateses,Venezuela,1
+1997-11-04 00.00.00.000,Valkoinen suklaa,650,LINO-Delicateses,Venezuela,1
+1997-11-05 00.00.00.000,Pavlova,"248,66252",Bon app',France,1
+1997-11-05 00.00.00.000,Gorgonzola Telino,"35,625",Bon app',France,1
+1997-11-05 00.00.00.000,Louisiana Fiery Hot Pepper Sauce,"199,97499",Bon app',France,1
+1997-11-06 00.00.00.000,Sir Rodney's Scones,380,Chop-suey Chinese,Switzerland,1
+1997-11-06 00.00.00.000,Manjimup Dried Apples,"1510,5",Chop-suey Chinese,Switzerland,1
+1997-11-06 00.00.00.000,Lakkalikööri,360,Bon app',France,1
+1997-11-07 00.00.00.000,Tofu,372,Berglunds snabbköp,Sweden,1
+1997-11-07 00.00.00.000,Rössle Sauerkraut,912,Berglunds snabbköp,Sweden,1
+1997-11-07 00.00.00.000,Filo Mix,175,Berglunds snabbköp,Sweden,1
+1997-11-07 00.00.00.000,Grandma's Boysenberry Spread,750,Gourmet Lanchonetes,Brazil,0
+1997-11-07 00.00.00.000,Nord-Ost Matjeshering,"388,34998",Gourmet Lanchonetes,Brazil,0
+1997-11-07 00.00.00.000,Lakkalikööri,360,Gourmet Lanchonetes,Brazil,0
+1997-11-10 00.00.00.000,Sirop d'érable,513,Let's Stop N Shop,USA,0
+1997-11-10 00.00.00.000,Original Frankfurter grüne Soße,"23,4",Let's Stop N Shop,USA,0
+1997-11-11 00.00.00.000,Louisiana Fiery Hot Pepper Sauce,842,Hungry Owl All-Night Grocers,Ireland,1
+1997-11-11 00.00.00.000,Rhönbräu Klosterbier,155,Hungry Owl All-Night Grocers,Ireland,1
+1997-11-11 00.00.00.000,Konbu,24,Vins et alcools Chevalier,France,1
+1997-11-11 00.00.00.000,Jack's New England Clam Chowder,"115,799995",Vins et alcools Chevalier,France,1
+1997-11-12 00.00.00.000,Pavlova,"52,350002",Spécialités du monde,France,1
+1997-11-12 00.00.00.000,Inlagd Sill,114,Vins et alcools Chevalier,France,1
+1997-11-12 00.00.00.000,Filo Mix,126,Vins et alcools Chevalier,France,1
+1997-11-13 00.00.00.000,Rössle Sauerkraut,"182,4",White Clover Markets,USA,0
+1997-11-13 00.00.00.000,Steeleye Stout,"504,00003",White Clover Markets,USA,0
+1997-11-13 00.00.00.000,Rogede sild,304,White Clover Markets,USA,0
+1997-11-13 00.00.00.000,Gnocchi di nonna Alice,"425,6",White Clover Markets,USA,0
+1997-11-14 00.00.00.000,Chang,228,Around the Horn,UK,1
+1997-11-14 00.00.00.000,Aniseed Syrup,200,Bottom-Dollar Markets,Canada,0
+1997-11-14 00.00.00.000,Camembert Pierrot,1700,Bottom-Dollar Markets,Canada,0
+1997-11-14 00.00.00.000,Mozzarella di Giovanni,1218,Bottom-Dollar Markets,Canada,0
+1997-11-17 00.00.00.000,Spegesild,"319,19998",Around the Horn,UK,1
+1997-11-17 00.00.00.000,Boston Crab Meat,736,Vaffeljernet,Denmark,1
+1997-11-18 00.00.00.000,Carnarvon Tigers,1500,QUICK-Stop,Germany,1
+1997-11-18 00.00.00.000,Gula Malacca,"311,2",QUICK-Stop,Germany,1
+1997-11-18 00.00.00.000,Raclette Courdavault,2475,QUICK-Stop,Germany,1
+1997-11-18 00.00.00.000,Mozzarella di Giovanni,"243,59999",QUICK-Stop,Germany,1
+1997-11-19 00.00.00.000,Konbu,36,Chop-suey Chinese,Switzerland,1
+1997-11-19 00.00.00.000,Singaporean Hokkien Fried Mee,392,Chop-suey Chinese,Switzerland,1
+1997-11-19 00.00.00.000,Tarte au sucre,"443,69998",Chop-suey Chinese,Switzerland,1
+1997-11-19 00.00.00.000,Gudbrandsdalsost,1440,Chop-suey Chinese,Switzerland,1
+1997-11-19 00.00.00.000,Gorgonzola Telino,100,Piccolo und mehr,Austria,1
+1997-11-19 00.00.00.000,Jack's New England Clam Chowder,"337,75",Piccolo und mehr,Austria,1
+1997-11-19 00.00.00.000,Vegie-spread,"395,1",Piccolo und mehr,Austria,1
+1997-11-19 00.00.00.000,Gudbrandsdalsost,1080,Piccolo und mehr,Austria,1
+1997-11-20 00.00.00.000,Tunnbröd,396,Save-a-lot Markets,USA,0
+1997-11-20 00.00.00.000,Boston Crab Meat,736,Save-a-lot Markets,USA,0
+1997-11-20 00.00.00.000,Gnocchi di nonna Alice,1064,Save-a-lot Markets,USA,0
+1997-11-20 00.00.00.000,Gnocchi di nonna Alice,570,Island Trading,UK,1
+1997-11-20 00.00.00.000,Raclette Courdavault,330,Island Trading,UK,1
+1997-11-20 00.00.00.000,Lakkalikööri,180,Island Trading,UK,1
+1997-11-21 00.00.00.000,Tofu,"98,8125",Wartian Herkku,Finland,1
+1997-11-21 00.00.00.000,Rogede sild,323,Wartian Herkku,Finland,1
+1997-11-21 00.00.00.000,Raclette Courdavault,"1168,75",Wartian Herkku,Finland,1
+1997-11-24 00.00.00.000,Gumbär Gummibärchen,"337,284",Richter Supermarkt,Switzerland,1
+1997-11-24 00.00.00.000,Nord-Ost Matjeshering,"776,69995",Richter Supermarkt,Switzerland,1
+1997-11-24 00.00.00.000,Valkoinen suklaa,"292,5",Richter Supermarkt,Switzerland,1
+1997-11-24 00.00.00.000,Röd Kaviar,225,Richter Supermarkt,Switzerland,1
+1997-11-24 00.00.00.000,Chai,144,North/South,UK,1
+1997-11-24 00.00.00.000,Gudbrandsdalsost,108,North/South,UK,1
+1997-11-25 00.00.00.000,Rogede sild,38,Franchi S.p.A.,Italy,1
+1997-11-25 00.00.00.000,Longlife Tofu,50,Franchi S.p.A.,Italy,1
+1997-11-25 00.00.00.000,Boston Crab Meat,"55,199997",Magazzini Alimentari Riuniti,Italy,1
+1997-11-26 00.00.00.000,Zaanse koeken,"213,75",Bon app',France,1
+1997-11-26 00.00.00.000,Gnocchi di nonna Alice,855,Bon app',France,1
+1997-11-26 00.00.00.000,Ravioli Angelo,"204,75",Bon app',France,1
+1997-11-26 00.00.00.000,Gudbrandsdalsost,675,Bon app',France,1
+1997-11-27 00.00.00.000,Carnarvon Tigers,1050,Split Rail Beer & Ale,USA,0
+1997-11-27 00.00.00.000,Inlagd Sill,304,Split Rail Beer & Ale,USA,0
+1997-11-27 00.00.00.000,Scottish Longbreads,60,Split Rail Beer & Ale,USA,0
+1997-11-27 00.00.00.000,Gudbrandsdalsost,576,Split Rail Beer & Ale,USA,0
+1997-11-27 00.00.00.000,Sasquatch Ale,420,Save-a-lot Markets,USA,0
+1997-11-27 00.00.00.000,Raclette Courdavault,385,Save-a-lot Markets,USA,0
+1997-11-27 00.00.00.000,Tarte au sucre,1479,Save-a-lot Markets,USA,0
+1997-11-27 00.00.00.000,Wimmers gute Semmelknödel,798,Save-a-lot Markets,USA,0
+1997-11-28 00.00.00.000,Gumbär Gummibärchen,"624,6",Richter Supermarkt,Switzerland,1
+1997-11-28 00.00.00.000,Filo Mix,420,Richter Supermarkt,Switzerland,1
+1997-11-28 00.00.00.000,Outback Lager,600,Richter Supermarkt,Switzerland,1
+1997-11-28 00.00.00.000,Mascarpone Fabioli,320,Ana Trujillo Emparedados y helados,Mexico,0
+1997-12-01 00.00.00.000,NuNuCa Nuß-Nougat-Creme,126,Maison Dewey,Belgium,1
+1997-12-01 00.00.00.000,Schoggi Schokolade,1756,Maison Dewey,Belgium,1
+1997-12-01 00.00.00.000,Ipoh Coffee,1035,Maison Dewey,Belgium,1
+1997-12-02 00.00.00.000,NuNuCa Nuß-Nougat-Creme,"367,5",Rattlesnake Canyon Grocery,USA,0
+1997-12-02 00.00.00.000,Rhönbräu Klosterbier,"139,5",Rattlesnake Canyon Grocery,USA,0
+1997-12-02 00.00.00.000,Chartreuse verte,288,Folk och fä HB,Sweden,1
+1997-12-02 00.00.00.000,Zaanse koeken,285,Folk och fä HB,Sweden,1
+1997-12-02 00.00.00.000,Manjimup Dried Apples,1484,Folk och fä HB,Sweden,1
+1997-12-02 00.00.00.000,Gnocchi di nonna Alice,2280,Folk och fä HB,Sweden,1
+1997-12-03 00.00.00.000,Sir Rodney's Scones,400,Folies gourmandes,France,1
+1997-12-03 00.00.00.000,Gustaf's Knäckebröd,126,Folies gourmandes,France,1
+1997-12-03 00.00.00.000,Guaraná Fantástica,90,Folies gourmandes,France,1
+1997-12-03 00.00.00.000,Aniseed Syrup,180,Ernst Handel,Austria,1
+1997-12-03 00.00.00.000,Chartreuse verte,"2105,9998",Ernst Handel,Austria,1
+1997-12-04 00.00.00.000,Louisiana Fiery Hot Pepper Sauce,"1515,6",QUICK-Stop,Germany,1
+1997-12-05 00.00.00.000,Chang,760,Ottilies Käseladen,Germany,1
+1997-12-05 00.00.00.000,Uncle Bob's Organic Dried Pears,1050,Ottilies Käseladen,Germany,1
+1997-12-05 00.00.00.000,Scottish Longbreads,500,Ottilies Käseladen,Germany,1
+1997-12-05 00.00.00.000,Singaporean Hokkien Fried Mee,28,Suprêmes délices,Belgium,1
+1997-12-08 00.00.00.000,Gustaf's Knäckebröd,84,Around the Horn,UK,1
+1997-12-08 00.00.00.000,Gorgonzola Telino,625,Around the Horn,UK,1
+1997-12-08 00.00.00.000,Camembert Pierrot,510,Around the Horn,UK,1
+1997-12-08 00.00.00.000,Flotemysost,258,Around the Horn,UK,1
+1997-12-08 00.00.00.000,Jack's New England Clam Chowder,"275,025",Vaffeljernet,Denmark,1
+1997-12-08 00.00.00.000,Filo Mix,"99,75",Vaffeljernet,Denmark,1
+1997-12-08 00.00.00.000,Sirop d'érable,570,Vaffeljernet,Denmark,1
+1997-12-08 00.00.00.000,Tarte au sucre,"739,5",Vaffeljernet,Denmark,1
+1997-12-09 00.00.00.000,Queso Cabrales,"236,25",Hanari Carnes,Brazil,0
+1997-12-10 00.00.00.000,Flotemysost,344,Ernst Handel,Austria,1
+1997-12-10 00.00.00.000,Thüringer Rostbratwurst,"2228,22",Lehmanns Marktstand,Germany,1
+1997-12-10 00.00.00.000,Raclette Courdavault,1375,Lehmanns Marktstand,Germany,1
+1997-12-11 00.00.00.000,Alice Mutton,1287,Ernst Handel,Austria,1
+1997-12-11 00.00.00.000,Gorgonzola Telino,700,Ernst Handel,Austria,1
+1997-12-11 00.00.00.000,Rhönbräu Klosterbier,"43,4",Ernst Handel,Austria,1
+1997-12-11 00.00.00.000,Gorgonzola Telino,"18,75",Folk och fä HB,Sweden,1
+1997-12-11 00.00.00.000,Louisiana Hot Spiced Okra,850,Folk och fä HB,Sweden,1
+1997-12-12 00.00.00.000,Ikura,186,The Cracker Box,USA,0
+1997-12-12 00.00.00.000,Laughing Lumberjack Lager,42,The Cracker Box,USA,0
+1997-12-15 00.00.00.000,Gorgonzola Telino,190,Ernst Handel,Austria,1
+1997-12-15 00.00.00.000,Singaporean Hokkien Fried Mee,"159,6",Ernst Handel,Austria,1
+1997-12-15 00.00.00.000,Rogede sild,"243,67499",Ernst Handel,Austria,1
+1997-12-15 00.00.00.000,Manjimup Dried Apples,6042,Ernst Handel,Austria,1
+1997-12-15 00.00.00.000,Singaporean Hokkien Fried Mee,224,Gourmet Lanchonetes,Brazil,0
+1997-12-16 00.00.00.000,Jack's New England Clam Chowder,"96,5",Berglunds snabbköp,Sweden,1
+1997-12-16 00.00.00.000,Pavlova,349,Morgenstern Gesundkost,Germany,1
+1997-12-16 00.00.00.000,Tarte au sucre,986,Morgenstern Gesundkost,Germany,1
+1997-12-16 00.00.00.000,Outback Lager,525,LILA-Supermercado,Venezuela,1
+1997-12-16 00.00.00.000,Original Frankfurter grüne Soße,195,LILA-Supermercado,Venezuela,1
+1997-12-17 00.00.00.000,Tourtière,"17,880001",Wartian Herkku,Finland,1
+1997-12-17 00.00.00.000,Gnocchi di nonna Alice,608,Wartian Herkku,Finland,1
+1997-12-17 00.00.00.000,Longlife Tofu,350,Wartian Herkku,Finland,1
+1997-12-17 00.00.00.000,Gorgonzola Telino,"12,5",Cactus Comidas para llevar,Argentina,0
+1997-12-18 00.00.00.000,Gorgonzola Telino,125,Hanari Carnes,Brazil,0
+1997-12-18 00.00.00.000,Côte de Blaye,"1317,5",Hanari Carnes,Brazil,0
+1997-12-18 00.00.00.000,Inlagd Sill,570,Magazzini Alimentari Riuniti,Italy,1
+1997-12-18 00.00.00.000,Chartreuse verte,"30,6",Magazzini Alimentari Riuniti,Italy,1
+1997-12-18 00.00.00.000,Mozzarella di Giovanni,"887,4",Magazzini Alimentari Riuniti,Italy,1
+1997-12-18 00.00.00.000,Ikura,310,GROSELLA-Restaurante,Venezuela,1
+1997-12-18 00.00.00.000,Rhönbräu Klosterbier,"77,5",GROSELLA-Restaurante,Venezuela,1
+1997-12-19 00.00.00.000,Northwoods Cranberry Sauce,960,Queen Cozinha,Brazil,0
+1997-12-19 00.00.00.000,Nord-Ost Matjeshering,"310,68",Queen Cozinha,Brazil,0
+1997-12-19 00.00.00.000,Rhönbräu Klosterbier,"260,40002",Queen Cozinha,Brazil,0
+1997-12-19 00.00.00.000,Chang,"270,75",La maison d'Asie,France,1
+1997-12-19 00.00.00.000,Thüringer Rostbratwurst,"2352,01",La maison d'Asie,France,1
+1997-12-22 00.00.00.000,Teatime Chocolate Biscuits,437,QUICK-Stop,Germany,1
+1997-12-22 00.00.00.000,Rhönbräu Klosterbier,"294,5",QUICK-Stop,Germany,1
+1997-12-22 00.00.00.000,Carnarvon Tigers,1875,Folies gourmandes,France,1
+1997-12-22 00.00.00.000,Steeleye Stout,270,Folies gourmandes,France,1
+1997-12-22 00.00.00.000,Vegie-spread,1317,Folies gourmandes,France,1
+1997-12-22 00.00.00.000,Scottish Longbreads,225,Folies gourmandes,France,1
+1997-12-22 00.00.00.000,Uncle Bob's Organic Dried Pears,"76,5",Gourmet Lanchonetes,Brazil,0
+1997-12-22 00.00.00.000,Gnocchi di nonna Alice,646,Gourmet Lanchonetes,Brazil,0
+1997-12-23 00.00.00.000,Thüringer Rostbratwurst,"1646,407",Frankenversand,Germany,1
+1997-12-23 00.00.00.000,Jack's New England Clam Chowder,"183,34999",Frankenversand,Germany,1
+1997-12-23 00.00.00.000,Chang,190,Wolski Zajazd,Poland,1
+1997-12-23 00.00.00.000,Tourtière,"22,349998",Wolski Zajazd,Poland,1
+1997-12-23 00.00.00.000,Scottish Longbreads,"187,5",Wolski Zajazd,Poland,1
+1997-12-24 00.00.00.000,Jack's New England Clam Chowder,"135,09999",Around the Horn,UK,1
+1997-12-24 00.00.00.000,Filo Mix,56,Around the Horn,UK,1
+1997-12-24 00.00.00.000,Tofu,279,Que Delícia,Brazil,0
+1997-12-24 00.00.00.000,Tourtière,"35,760002",Que Delícia,Brazil,0
+1997-12-24 00.00.00.000,Pavlova,"1134,25",Ernst Handel,Austria,1
+1997-12-24 00.00.00.000,Alice Mutton,"1023,75",Ernst Handel,Austria,1
+1997-12-25 00.00.00.000,Gumbär Gummibärchen,"524,664",HILARION-Abastos,Venezuela,1
+1997-12-25 00.00.00.000,Gula Malacca,"194,5",HILARION-Abastos,Venezuela,1
+1997-12-25 00.00.00.000,Wimmers gute Semmelknödel,931,HILARION-Abastos,Venezuela,1
+1997-12-25 00.00.00.000,Gudbrandsdalsost,"691,2",HILARION-Abastos,Venezuela,1
+1997-12-25 00.00.00.000,Queso Cabrales,420,Drachenblut Delikatessen,Germany,1
+1997-12-26 00.00.00.000,Tarte au sucre,"98,6",Island Trading,UK,1
+1997-12-26 00.00.00.000,Mozzarella di Giovanni,348,Island Trading,UK,1
+1997-12-26 00.00.00.000,Konbu,"102,00001",Königlich Essen,Germany,1
+1997-12-26 00.00.00.000,Guaraná Fantástica,"76,5",Königlich Essen,Germany,1
+1997-12-26 00.00.00.000,Raclette Courdavault,1375,Königlich Essen,Germany,1
+1997-12-26 00.00.00.000,Queso Cabrales,945,Seven Seas Imports,UK,1
+1997-12-26 00.00.00.000,Manjimup Dried Apples,"476,99997",Seven Seas Imports,UK,1
+1997-12-26 00.00.00.000,Tourtière,"46,934998",Seven Seas Imports,UK,1
+1997-12-29 00.00.00.000,Alice Mutton,1170,Bólido Comidas preparadas,Spain,1
+1997-12-29 00.00.00.000,Thüringer Rostbratwurst,"1856,85",Bólido Comidas preparadas,Spain,1
+1997-12-29 00.00.00.000,Nord-Ost Matjeshering,"485,4375",Simons bistro,Denmark,1
+1997-12-29 00.00.00.000,Manjimup Dried Apples,"1192,5",Simons bistro,Denmark,1
+1997-12-29 00.00.00.000,Pâté chinois,1080,Simons bistro,Denmark,1
+1997-12-29 00.00.00.000,Tarte au sucre,"184,875",Simons bistro,Denmark,1
+1997-12-30 00.00.00.000,Teatime Chocolate Biscuits,"209,76",Wellington Importadora,Brazil,0
+1997-12-30 00.00.00.000,NuNuCa Nuß-Nougat-Creme,"199,5",Wellington Importadora,Brazil,0
+1997-12-30 00.00.00.000,Raclette Courdavault,"783,75",Wellington Importadora,Brazil,0
+1997-12-30 00.00.00.000,Ikura,1116,Seven Seas Imports,UK,1
+1997-12-30 00.00.00.000,Rössle Sauerkraut,"1094,3999",Seven Seas Imports,UK,1
+1997-12-30 00.00.00.000,Maxilaku,68,Seven Seas Imports,UK,1
+1997-12-30 00.00.00.000,Sasquatch Ale,140,The Big Cheese,USA,0
+1997-12-30 00.00.00.000,Côte de Blaye,2635,The Big Cheese,USA,0
+1997-12-31 00.00.00.000,Chang,285,Victuailles en stock,France,1
+1997-12-31 00.00.00.000,Louisiana Fiery Hot Pepper Sauce,"42,1",Victuailles en stock,France,1
+1997-12-31 00.00.00.000,Longlife Tofu,"112,5",Victuailles en stock,France,1
+1997-12-31 00.00.00.000,Boston Crab Meat,"18,4",Franchi S.p.A.,Italy,1
