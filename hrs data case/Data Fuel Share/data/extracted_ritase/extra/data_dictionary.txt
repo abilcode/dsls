@@ -1,0 +1,12 @@
+Columns : 
+
+Waktu : Tanggal dan Jam
+Value : Jumlah ritase pada waktu yang bersesuaian
+
+Cara Baca File 
+File Name : ritase_{bulan}_{EX}
+
+contoh : 
+File Name : ritase_agustus_EX42
+
+artinya, file ritase pada bulan agustus untuk Excafator 42
