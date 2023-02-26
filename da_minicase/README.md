@@ -1,5 +1,5 @@
-Berikut Dilampirkan Link menuju REPORTNYA:
+Berikut Dilampirkan Link menuju REPORTNYA: <br>
 https://docs.google.com/presentation/d/13fHPRVpRDdxuETi1xRWDqBL0F5mr0MVNvhdNk_HI2d0/edit?usp=sharing
 
-Berikut Dilampirkan Link menuju Google Looker Studio : 
+Berikut Dilampirkan Link menuju Google Looker Studio :  <br>
 https://lookerstudio.google.com/reporting/39716849-869f-4ebd-84db-2ff60519a644 
